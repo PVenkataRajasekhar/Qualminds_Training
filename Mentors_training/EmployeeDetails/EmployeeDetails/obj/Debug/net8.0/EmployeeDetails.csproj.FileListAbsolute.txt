@@ -1,0 +1,14 @@
+C:\Users\QualMinds\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\net8.0\EmployeeDetails.exe
+C:\Users\QualMinds\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\net8.0\EmployeeDetails.deps.json
+C:\Users\QualMinds\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\net8.0\EmployeeDetails.runtimeconfig.json
+C:\Users\QualMinds\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\net8.0\EmployeeDetails.dll
+C:\Users\QualMinds\source\repos\EmployeeDetails\EmployeeDetails\bin\Debug\net8.0\EmployeeDetails.pdb
+C:\Users\QualMinds\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net8.0\EmployeeDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QualMinds\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net8.0\EmployeeDetails.AssemblyInfoInputs.cache
+C:\Users\QualMinds\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net8.0\EmployeeDetails.AssemblyInfo.cs
+C:\Users\QualMinds\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net8.0\EmployeeDetails.csproj.CoreCompileInputs.cache
+C:\Users\QualMinds\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net8.0\EmployeeDetails.dll
+C:\Users\QualMinds\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net8.0\refint\EmployeeDetails.dll
+C:\Users\QualMinds\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net8.0\EmployeeDetails.pdb
+C:\Users\QualMinds\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net8.0\EmployeeDetails.genruntimeconfig.cache
+C:\Users\QualMinds\source\repos\EmployeeDetails\EmployeeDetails\obj\Debug\net8.0\ref\EmployeeDetails.dll

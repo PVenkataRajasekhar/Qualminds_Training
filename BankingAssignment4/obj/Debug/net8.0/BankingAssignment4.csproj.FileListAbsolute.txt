@@ -1,0 +1,15 @@
+C:\Users\QualMinds\source\repos\BankingAssignment4\BankingAssignment4\obj\Debug\net8.0\BankingAssignment4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QualMinds\source\repos\BankingAssignment4\BankingAssignment4\obj\Debug\net8.0\BankingAssignment4.AssemblyInfoInputs.cache
+C:\Users\QualMinds\source\repos\BankingAssignment4\BankingAssignment4\obj\Debug\net8.0\BankingAssignment4.AssemblyInfo.cs
+C:\Users\QualMinds\source\repos\BankingAssignment4\BankingAssignment4\obj\Debug\net8.0\BankingAssignment4.csproj.CoreCompileInputs.cache
+C:\Users\QualMinds\source\repos\BankingAssignment4\BankingAssignment4\bin\Debug\net8.0\BankingAssignment4.exe
+C:\Users\QualMinds\source\repos\BankingAssignment4\BankingAssignment4\bin\Debug\net8.0\BankingAssignment4.deps.json
+C:\Users\QualMinds\source\repos\BankingAssignment4\BankingAssignment4\bin\Debug\net8.0\BankingAssignment4.runtimeconfig.json
+C:\Users\QualMinds\source\repos\BankingAssignment4\BankingAssignment4\bin\Debug\net8.0\BankingAssignment4.dll
+C:\Users\QualMinds\source\repos\BankingAssignment4\BankingAssignment4\bin\Debug\net8.0\BankingAssignment4.pdb
+C:\Users\QualMinds\source\repos\BankingAssignment4\BankingAssignment4\obj\Debug\net8.0\BankingAssignment4.dll
+C:\Users\QualMinds\source\repos\BankingAssignment4\BankingAssignment4\obj\Debug\net8.0\refint\BankingAssignment4.dll
+C:\Users\QualMinds\source\repos\BankingAssignment4\BankingAssignment4\obj\Debug\net8.0\BankingAssignment4.pdb
+C:\Users\QualMinds\source\repos\BankingAssignment4\BankingAssignment4\obj\Debug\net8.0\BankingAssignment4.genruntimeconfig.cache
+C:\Users\QualMinds\source\repos\BankingAssignment4\BankingAssignment4\obj\Debug\net8.0\ref\BankingAssignment4.dll
+C:\Users\QualMinds\source\repos\BankingAssignment4\BankingAssignment4\obj\Debug\net8.0\BankingAssignment4.sourcelink.json

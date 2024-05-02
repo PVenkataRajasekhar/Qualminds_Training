@@ -1,0 +1,14 @@
+C:\Users\QualMinds\source\repos\ProductManagement\ProductManagement\bin\Debug\net8.0\ProductManagement.exe
+C:\Users\QualMinds\source\repos\ProductManagement\ProductManagement\bin\Debug\net8.0\ProductManagement.deps.json
+C:\Users\QualMinds\source\repos\ProductManagement\ProductManagement\bin\Debug\net8.0\ProductManagement.runtimeconfig.json
+C:\Users\QualMinds\source\repos\ProductManagement\ProductManagement\bin\Debug\net8.0\ProductManagement.dll
+C:\Users\QualMinds\source\repos\ProductManagement\ProductManagement\bin\Debug\net8.0\ProductManagement.pdb
+C:\Users\QualMinds\source\repos\ProductManagement\ProductManagement\obj\Debug\net8.0\ProductManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QualMinds\source\repos\ProductManagement\ProductManagement\obj\Debug\net8.0\ProductManagement.AssemblyInfoInputs.cache
+C:\Users\QualMinds\source\repos\ProductManagement\ProductManagement\obj\Debug\net8.0\ProductManagement.AssemblyInfo.cs
+C:\Users\QualMinds\source\repos\ProductManagement\ProductManagement\obj\Debug\net8.0\ProductManagement.csproj.CoreCompileInputs.cache
+C:\Users\QualMinds\source\repos\ProductManagement\ProductManagement\obj\Debug\net8.0\ProductManagement.dll
+C:\Users\QualMinds\source\repos\ProductManagement\ProductManagement\obj\Debug\net8.0\refint\ProductManagement.dll
+C:\Users\QualMinds\source\repos\ProductManagement\ProductManagement\obj\Debug\net8.0\ProductManagement.pdb
+C:\Users\QualMinds\source\repos\ProductManagement\ProductManagement\obj\Debug\net8.0\ProductManagement.genruntimeconfig.cache
+C:\Users\QualMinds\source\repos\ProductManagement\ProductManagement\obj\Debug\net8.0\ref\ProductManagement.dll

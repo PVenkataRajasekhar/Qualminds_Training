@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Qualminds_Training\\Interfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44FE1401-F833-47C5-96BD-BA0155A5ABA6}|Interfaces\\Interfaces.csproj|d:\\qualminds_training\\interfaces\\interfaces\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44FE1401-F833-47C5-96BD-BA0155A5ABA6}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44FE1401-F833-47C5-96BD-BA0155A5ABA6}|Interfaces\\Interfaces.csproj|d:\\qualminds_training\\interfaces\\interfaces\\abstractclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44FE1401-F833-47C5-96BD-BA0155A5ABA6}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\abstractclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44FE1401-F833-47C5-96BD-BA0155A5ABA6}|Interfaces\\Interfaces.csproj|d:\\qualminds_training\\interfaces\\interfaces\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44FE1401-F833-47C5-96BD-BA0155A5ABA6}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44FE1401-F833-47C5-96BD-BA0155A5ABA6}|Interfaces\\Interfaces.csproj|d:\\qualminds_training\\interfaces\\interfaces\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44FE1401-F833-47C5-96BD-BA0155A5ABA6}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\currentaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44FE1401-F833-47C5-96BD-BA0155A5ABA6}|Interfaces\\Interfaces.csproj|d:\\qualminds_training\\interfaces\\interfaces\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44FE1401-F833-47C5-96BD-BA0155A5ABA6}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44FE1401-F833-47C5-96BD-BA0155A5ABA6}|Interfaces\\Interfaces.csproj|d:\\qualminds_training\\interfaces\\interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44FE1401-F833-47C5-96BD-BA0155A5ABA6}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Interfaces\\Interfaces\\Transaction.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Transaction.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Interfaces\\Interfaces\\Transaction.cs",
+              "RelativeToolTip": "Interfaces\\Transaction.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwBIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T17:12:16.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AbstractClass.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Interfaces\\Interfaces\\AbstractClass.cs",
+              "RelativeDocumentMoniker": "Interfaces\\AbstractClass.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Interfaces\\Interfaces\\AbstractClass.cs",
+              "RelativeToolTip": "Interfaces\\AbstractClass.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T06:08:05.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Interface1.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Interfaces\\Interfaces\\Interface1.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Interface1.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Interfaces\\Interfaces\\Interface1.cs",
+              "RelativeToolTip": "Interfaces\\Interface1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T06:05:37.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CurrentAccount.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Interfaces\\Interfaces\\CurrentAccount.cs",
+              "RelativeDocumentMoniker": "Interfaces\\CurrentAccount.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Interfaces\\Interfaces\\CurrentAccount.cs",
+              "RelativeToolTip": "Interfaces\\CurrentAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T06:04:48.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Interfaces\\Interfaces\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "Interfaces\\SavingsAccount.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Interfaces\\Interfaces\\SavingsAccount.cs",
+              "RelativeToolTip": "Interfaces\\SavingsAccount.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T06:04:38.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Interfaces\\Interfaces\\Program.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Program.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Interfaces\\Interfaces\\Program.cs",
+              "RelativeToolTip": "Interfaces\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T06:04:25.926Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

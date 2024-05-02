@@ -1,0 +1,14 @@
+C:\Users\QualMinds\source\repos\BankingAssignment5\BankingAssignment5\bin\Debug\net8.0\BankingAssignment5.exe
+C:\Users\QualMinds\source\repos\BankingAssignment5\BankingAssignment5\bin\Debug\net8.0\BankingAssignment5.deps.json
+C:\Users\QualMinds\source\repos\BankingAssignment5\BankingAssignment5\bin\Debug\net8.0\BankingAssignment5.runtimeconfig.json
+C:\Users\QualMinds\source\repos\BankingAssignment5\BankingAssignment5\bin\Debug\net8.0\BankingAssignment5.dll
+C:\Users\QualMinds\source\repos\BankingAssignment5\BankingAssignment5\bin\Debug\net8.0\BankingAssignment5.pdb
+C:\Users\QualMinds\source\repos\BankingAssignment5\BankingAssignment5\obj\Debug\net8.0\BankingAssignment5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QualMinds\source\repos\BankingAssignment5\BankingAssignment5\obj\Debug\net8.0\BankingAssignment5.AssemblyInfoInputs.cache
+C:\Users\QualMinds\source\repos\BankingAssignment5\BankingAssignment5\obj\Debug\net8.0\BankingAssignment5.AssemblyInfo.cs
+C:\Users\QualMinds\source\repos\BankingAssignment5\BankingAssignment5\obj\Debug\net8.0\BankingAssignment5.csproj.CoreCompileInputs.cache
+C:\Users\QualMinds\source\repos\BankingAssignment5\BankingAssignment5\obj\Debug\net8.0\BankingAssignment5.dll
+C:\Users\QualMinds\source\repos\BankingAssignment5\BankingAssignment5\obj\Debug\net8.0\refint\BankingAssignment5.dll
+C:\Users\QualMinds\source\repos\BankingAssignment5\BankingAssignment5\obj\Debug\net8.0\BankingAssignment5.pdb
+C:\Users\QualMinds\source\repos\BankingAssignment5\BankingAssignment5\obj\Debug\net8.0\BankingAssignment5.genruntimeconfig.cache
+C:\Users\QualMinds\source\repos\BankingAssignment5\BankingAssignment5\obj\Debug\net8.0\ref\BankingAssignment5.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\QualMinds\\source\\repos\\Program4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15126DCB-07D2-4161-8AD3-D64245BC48AD}|Program4\\Program4.csproj|c:\\users\\qualminds\\source\\repos\\program4\\program4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15126DCB-07D2-4161-8AD3-D64245BC48AD}|Program4\\Program4.csproj|solutionrelative:program4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\QualMinds\\source\\repos\\Program4\\Program4\\Program.cs",
+              "RelativeDocumentMoniker": "Program4\\Program.cs",
+              "ToolTip": "C:\\Users\\QualMinds\\source\\repos\\Program4\\Program4\\Program.cs",
+              "RelativeToolTip": "Program4\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAkwDAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T12:55:31.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

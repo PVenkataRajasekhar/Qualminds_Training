@@ -1,0 +1,14 @@
+C:\Users\QualMinds\source\repos\FlightReservationSystem\FlightReservationSystem\bin\Debug\net8.0\FlightReservationSystem.exe
+C:\Users\QualMinds\source\repos\FlightReservationSystem\FlightReservationSystem\bin\Debug\net8.0\FlightReservationSystem.deps.json
+C:\Users\QualMinds\source\repos\FlightReservationSystem\FlightReservationSystem\bin\Debug\net8.0\FlightReservationSystem.runtimeconfig.json
+C:\Users\QualMinds\source\repos\FlightReservationSystem\FlightReservationSystem\bin\Debug\net8.0\FlightReservationSystem.dll
+C:\Users\QualMinds\source\repos\FlightReservationSystem\FlightReservationSystem\bin\Debug\net8.0\FlightReservationSystem.pdb
+C:\Users\QualMinds\source\repos\FlightReservationSystem\FlightReservationSystem\obj\Debug\net8.0\FlightReservationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QualMinds\source\repos\FlightReservationSystem\FlightReservationSystem\obj\Debug\net8.0\FlightReservationSystem.AssemblyInfoInputs.cache
+C:\Users\QualMinds\source\repos\FlightReservationSystem\FlightReservationSystem\obj\Debug\net8.0\FlightReservationSystem.AssemblyInfo.cs
+C:\Users\QualMinds\source\repos\FlightReservationSystem\FlightReservationSystem\obj\Debug\net8.0\FlightReservationSystem.csproj.CoreCompileInputs.cache
+C:\Users\QualMinds\source\repos\FlightReservationSystem\FlightReservationSystem\obj\Debug\net8.0\FlightReservationSystem.dll
+C:\Users\QualMinds\source\repos\FlightReservationSystem\FlightReservationSystem\obj\Debug\net8.0\refint\FlightReservationSystem.dll
+C:\Users\QualMinds\source\repos\FlightReservationSystem\FlightReservationSystem\obj\Debug\net8.0\FlightReservationSystem.pdb
+C:\Users\QualMinds\source\repos\FlightReservationSystem\FlightReservationSystem\obj\Debug\net8.0\FlightReservationSystem.genruntimeconfig.cache
+C:\Users\QualMinds\source\repos\FlightReservationSystem\FlightReservationSystem\obj\Debug\net8.0\ref\FlightReservationSystem.dll

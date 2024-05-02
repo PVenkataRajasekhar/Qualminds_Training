@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Collections\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF6F49A-AD1F-4D22-BB52-6DD15D2F089E}|Collections\\Collections.csproj|d:\\collections\\collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF6F49A-AD1F-4D22-BB52-6DD15D2F089E}|Collections\\Collections.csproj|solutionrelative:collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF6F49A-AD1F-4D22-BB52-6DD15D2F089E}|Collections\\Collections.csproj|d:\\collections\\collections\\sortedlists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF6F49A-AD1F-4D22-BB52-6DD15D2F089E}|Collections\\Collections.csproj|solutionrelative:collections\\sortedlists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF6F49A-AD1F-4D22-BB52-6DD15D2F089E}|Collections\\Collections.csproj|d:\\collections\\collections\\queues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF6F49A-AD1F-4D22-BB52-6DD15D2F089E}|Collections\\Collections.csproj|solutionrelative:collections\\queues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF6F49A-AD1F-4D22-BB52-6DD15D2F089E}|Collections\\Collections.csproj|d:\\collections\\collections\\hashtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF6F49A-AD1F-4D22-BB52-6DD15D2F089E}|Collections\\Collections.csproj|solutionrelative:collections\\hashtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF6F49A-AD1F-4D22-BB52-6DD15D2F089E}|Collections\\Collections.csproj|d:\\collections\\collections\\stacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF6F49A-AD1F-4D22-BB52-6DD15D2F089E}|Collections\\Collections.csproj|solutionrelative:collections\\stacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF6F49A-AD1F-4D22-BB52-6DD15D2F089E}|Collections\\Collections.csproj|d:\\collections\\collections\\arraylists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF6F49A-AD1F-4D22-BB52-6DD15D2F089E}|Collections\\Collections.csproj|solutionrelative:collections\\arraylists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SortedLists.cs",
+              "DocumentMoniker": "D:\\Collections\\Collections\\SortedLists.cs",
+              "RelativeDocumentMoniker": "Collections\\SortedLists.cs",
+              "ToolTip": "D:\\Collections\\Collections\\SortedLists.cs",
+              "RelativeToolTip": "Collections\\SortedLists.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T17:17:48.182Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Queues.cs",
+              "DocumentMoniker": "D:\\Collections\\Collections\\Queues.cs",
+              "RelativeDocumentMoniker": "Collections\\Queues.cs",
+              "ToolTip": "D:\\Collections\\Collections\\Queues.cs",
+              "RelativeToolTip": "Collections\\Queues.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T17:12:59.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Stacks.cs",
+              "DocumentMoniker": "D:\\Collections\\Collections\\Stacks.cs",
+              "RelativeDocumentMoniker": "Collections\\Stacks.cs",
+              "ToolTip": "D:\\Collections\\Collections\\Stacks.cs",
+              "RelativeToolTip": "Collections\\Stacks.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T16:52:00.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hashtables.cs",
+              "DocumentMoniker": "D:\\Collections\\Collections\\Hashtables.cs",
+              "RelativeDocumentMoniker": "Collections\\Hashtables.cs",
+              "ToolTip": "D:\\Collections\\Collections\\Hashtables.cs",
+              "RelativeToolTip": "Collections\\Hashtables.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDwAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T15:28:27.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArrayLists.cs",
+              "DocumentMoniker": "D:\\Collections\\Collections\\ArrayLists.cs",
+              "RelativeDocumentMoniker": "Collections\\ArrayLists.cs",
+              "ToolTip": "D:\\Collections\\Collections\\ArrayLists.cs",
+              "RelativeToolTip": "Collections\\ArrayLists.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwFsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T14:31:17.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Collections\\Collections\\Program.cs",
+              "RelativeDocumentMoniker": "Collections\\Program.cs",
+              "ToolTip": "D:\\Collections\\Collections\\Program.cs",
+              "RelativeToolTip": "Collections\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T14:28:08.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

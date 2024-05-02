@@ -1,0 +1,15 @@
+C:\Users\QualMinds\source\repos\Banking2\Banking2\bin\Debug\net8.0\Banking2.exe
+C:\Users\QualMinds\source\repos\Banking2\Banking2\bin\Debug\net8.0\Banking2.deps.json
+C:\Users\QualMinds\source\repos\Banking2\Banking2\bin\Debug\net8.0\Banking2.runtimeconfig.json
+C:\Users\QualMinds\source\repos\Banking2\Banking2\bin\Debug\net8.0\Banking2.dll
+C:\Users\QualMinds\source\repos\Banking2\Banking2\bin\Debug\net8.0\Banking2.pdb
+C:\Users\QualMinds\source\repos\Banking2\Banking2\obj\Debug\net8.0\Banking2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QualMinds\source\repos\Banking2\Banking2\obj\Debug\net8.0\Banking2.AssemblyInfoInputs.cache
+C:\Users\QualMinds\source\repos\Banking2\Banking2\obj\Debug\net8.0\Banking2.AssemblyInfo.cs
+C:\Users\QualMinds\source\repos\Banking2\Banking2\obj\Debug\net8.0\Banking2.csproj.CoreCompileInputs.cache
+C:\Users\QualMinds\source\repos\Banking2\Banking2\obj\Debug\net8.0\Banking2.dll
+C:\Users\QualMinds\source\repos\Banking2\Banking2\obj\Debug\net8.0\refint\Banking2.dll
+C:\Users\QualMinds\source\repos\Banking2\Banking2\obj\Debug\net8.0\Banking2.pdb
+C:\Users\QualMinds\source\repos\Banking2\Banking2\obj\Debug\net8.0\Banking2.genruntimeconfig.cache
+C:\Users\QualMinds\source\repos\Banking2\Banking2\obj\Debug\net8.0\ref\Banking2.dll
+C:\Users\QualMinds\source\repos\Banking2\Banking2\obj\Debug\net8.0\Banking2.sourcelink.json

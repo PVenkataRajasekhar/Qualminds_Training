@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\QualMinds\\Desktop\\Banking3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD9D7A7-547E-418B-BB29-81DC205B1C90}|Banking3.csproj|c:\\users\\qualminds\\desktop\\banking3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD9D7A7-547E-418B-BB29-81DC205B1C90}|Banking3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD9D7A7-547E-418B-BB29-81DC205B1C90}|Banking3.csproj|c:\\users\\qualminds\\desktop\\banking3\\deposittransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD9D7A7-547E-418B-BB29-81DC205B1C90}|Banking3.csproj|solutionrelative:deposittransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD9D7A7-547E-418B-BB29-81DC205B1C90}|Banking3.csproj|c:\\users\\qualminds\\desktop\\banking3\\transfertransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD9D7A7-547E-418B-BB29-81DC205B1C90}|Banking3.csproj|solutionrelative:transfertransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD9D7A7-547E-418B-BB29-81DC205B1C90}|Banking3.csproj|c:\\users\\qualminds\\desktop\\banking3\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD9D7A7-547E-418B-BB29-81DC205B1C90}|Banking3.csproj|solutionrelative:account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD9D7A7-547E-418B-BB29-81DC205B1C90}|Banking3.csproj|c:\\users\\qualminds\\desktop\\banking3\\withdrawtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD9D7A7-547E-418B-BB29-81DC205B1C90}|Banking3.csproj|solutionrelative:withdrawtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepositTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\QualMinds\\Desktop\\Banking3\\DepositTransaction.cs",
+              "RelativeDocumentMoniker": "DepositTransaction.cs",
+              "ToolTip": "C:\\Users\\QualMinds\\Desktop\\Banking3\\DepositTransaction.cs",
+              "RelativeToolTip": "DepositTransaction.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAIAxwC0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T06:35:31.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransferTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\QualMinds\\Desktop\\Banking3\\TransferTransaction.cs",
+              "RelativeDocumentMoniker": "TransferTransaction.cs",
+              "ToolTip": "C:\\Users\\QualMinds\\Desktop\\Banking3\\TransferTransaction.cs",
+              "RelativeToolTip": "TransferTransaction.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowDYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T06:35:28.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\QualMinds\\Desktop\\Banking3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\QualMinds\\Desktop\\Banking3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAEwCIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T11:21:41.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WithdrawTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\QualMinds\\Desktop\\Banking3\\WithdrawTransaction.cs",
+              "RelativeDocumentMoniker": "WithdrawTransaction.cs",
+              "ToolTip": "C:\\Users\\QualMinds\\Desktop\\Banking3\\WithdrawTransaction.cs",
+              "RelativeToolTip": "WithdrawTransaction.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAswAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T11:40:10.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\QualMinds\\Desktop\\Banking3\\Account.cs",
+              "RelativeDocumentMoniker": "Account.cs",
+              "ToolTip": "C:\\Users\\QualMinds\\Desktop\\Banking3\\Account.cs",
+              "RelativeToolTip": "Account.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAgwDIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T11:38:15.028Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

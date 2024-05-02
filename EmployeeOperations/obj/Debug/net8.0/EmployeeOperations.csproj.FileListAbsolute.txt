@@ -1,0 +1,14 @@
+C:\Users\QualMinds\source\repos\EmployeeOperations\EmployeeOperations\obj\Debug\net8.0\EmployeeOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QualMinds\source\repos\EmployeeOperations\EmployeeOperations\obj\Debug\net8.0\EmployeeOperations.AssemblyInfoInputs.cache
+C:\Users\QualMinds\source\repos\EmployeeOperations\EmployeeOperations\obj\Debug\net8.0\EmployeeOperations.AssemblyInfo.cs
+C:\Users\QualMinds\source\repos\EmployeeOperations\EmployeeOperations\obj\Debug\net8.0\EmployeeOperations.csproj.CoreCompileInputs.cache
+C:\Users\QualMinds\source\repos\EmployeeOperations\EmployeeOperations\bin\Debug\net8.0\EmployeeOperations.exe
+C:\Users\QualMinds\source\repos\EmployeeOperations\EmployeeOperations\bin\Debug\net8.0\EmployeeOperations.deps.json
+C:\Users\QualMinds\source\repos\EmployeeOperations\EmployeeOperations\bin\Debug\net8.0\EmployeeOperations.runtimeconfig.json
+C:\Users\QualMinds\source\repos\EmployeeOperations\EmployeeOperations\bin\Debug\net8.0\EmployeeOperations.dll
+C:\Users\QualMinds\source\repos\EmployeeOperations\EmployeeOperations\bin\Debug\net8.0\EmployeeOperations.pdb
+C:\Users\QualMinds\source\repos\EmployeeOperations\EmployeeOperations\obj\Debug\net8.0\EmployeeOperations.dll
+C:\Users\QualMinds\source\repos\EmployeeOperations\EmployeeOperations\obj\Debug\net8.0\refint\EmployeeOperations.dll
+C:\Users\QualMinds\source\repos\EmployeeOperations\EmployeeOperations\obj\Debug\net8.0\EmployeeOperations.pdb
+C:\Users\QualMinds\source\repos\EmployeeOperations\EmployeeOperations\obj\Debug\net8.0\EmployeeOperations.genruntimeconfig.cache
+C:\Users\QualMinds\source\repos\EmployeeOperations\EmployeeOperations\obj\Debug\net8.0\ref\EmployeeOperations.dll

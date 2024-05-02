@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Qualminds_Training\\Mentors_training\\Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF59210E-FD17-4389-A936-B47CEEAC49F3}|Inheritance\\Inheritance.csproj|d:\\qualminds_training\\mentors_training\\inheritance\\inheritance\\enumclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF59210E-FD17-4389-A936-B47CEEAC49F3}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\enumclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF59210E-FD17-4389-A936-B47CEEAC49F3}|Inheritance\\Inheritance.csproj|d:\\qualminds_training\\mentors_training\\inheritance\\inheritance\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF59210E-FD17-4389-A936-B47CEEAC49F3}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF59210E-FD17-4389-A936-B47CEEAC49F3}|Inheritance\\Inheritance.csproj|d:\\qualminds_training\\mentors_training\\inheritance\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF59210E-FD17-4389-A936-B47CEEAC49F3}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF59210E-FD17-4389-A936-B47CEEAC49F3}|Inheritance\\Inheritance.csproj|d:\\qualminds_training\\mentors_training\\inheritance\\inheritance\\associate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF59210E-FD17-4389-A936-B47CEEAC49F3}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\associate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF59210E-FD17-4389-A936-B47CEEAC49F3}|Inheritance\\Inheritance.csproj|d:\\qualminds_training\\mentors_training\\inheritance\\inheritance\\juniormentor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF59210E-FD17-4389-A936-B47CEEAC49F3}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\juniormentor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF59210E-FD17-4389-A936-B47CEEAC49F3}|Inheritance\\Inheritance.csproj|d:\\qualminds_training\\mentors_training\\inheritance\\inheritance\\junior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF59210E-FD17-4389-A936-B47CEEAC49F3}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\junior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnumClass.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\Inheritance\\Inheritance\\EnumClass.cs",
+              "RelativeDocumentMoniker": "Inheritance\\EnumClass.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\Inheritance\\Inheritance\\EnumClass.cs",
+              "RelativeToolTip": "Inheritance\\EnumClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:53:44.371Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JuniorMentor.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\Inheritance\\Inheritance\\JuniorMentor.cs",
+              "RelativeDocumentMoniker": "Inheritance\\JuniorMentor.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\Inheritance\\Inheritance\\JuniorMentor.cs",
+              "RelativeToolTip": "Inheritance\\JuniorMentor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:15:42.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseClass.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\Inheritance\\Inheritance\\BaseClass.cs",
+              "RelativeDocumentMoniker": "Inheritance\\BaseClass.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\Inheritance\\Inheritance\\BaseClass.cs",
+              "RelativeToolTip": "Inheritance\\BaseClass.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T14:34:24.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Junior.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\Inheritance\\Inheritance\\Junior.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Junior.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\Inheritance\\Inheritance\\Junior.cs",
+              "RelativeToolTip": "Inheritance\\Junior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T14:01:39.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Associate.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\Inheritance\\Inheritance\\Associate.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Associate.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\Inheritance\\Inheritance\\Associate.cs",
+              "RelativeToolTip": "Inheritance\\Associate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:52:39.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\Inheritance\\Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Program.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\Inheritance\\Inheritance\\Program.cs",
+              "RelativeToolTip": "Inheritance\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T11:58:50.071Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

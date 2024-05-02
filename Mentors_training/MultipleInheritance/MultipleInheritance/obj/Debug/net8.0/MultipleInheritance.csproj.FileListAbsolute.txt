@@ -1,0 +1,14 @@
+C:\Users\QualMinds\source\repos\MultipleInheritance\MultipleInheritance\bin\Debug\net8.0\MultipleInheritance.exe
+C:\Users\QualMinds\source\repos\MultipleInheritance\MultipleInheritance\bin\Debug\net8.0\MultipleInheritance.deps.json
+C:\Users\QualMinds\source\repos\MultipleInheritance\MultipleInheritance\bin\Debug\net8.0\MultipleInheritance.runtimeconfig.json
+C:\Users\QualMinds\source\repos\MultipleInheritance\MultipleInheritance\bin\Debug\net8.0\MultipleInheritance.dll
+C:\Users\QualMinds\source\repos\MultipleInheritance\MultipleInheritance\bin\Debug\net8.0\MultipleInheritance.pdb
+C:\Users\QualMinds\source\repos\MultipleInheritance\MultipleInheritance\obj\Debug\net8.0\MultipleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QualMinds\source\repos\MultipleInheritance\MultipleInheritance\obj\Debug\net8.0\MultipleInheritance.AssemblyInfoInputs.cache
+C:\Users\QualMinds\source\repos\MultipleInheritance\MultipleInheritance\obj\Debug\net8.0\MultipleInheritance.AssemblyInfo.cs
+C:\Users\QualMinds\source\repos\MultipleInheritance\MultipleInheritance\obj\Debug\net8.0\MultipleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\QualMinds\source\repos\MultipleInheritance\MultipleInheritance\obj\Debug\net8.0\MultipleInheritance.dll
+C:\Users\QualMinds\source\repos\MultipleInheritance\MultipleInheritance\obj\Debug\net8.0\refint\MultipleInheritance.dll
+C:\Users\QualMinds\source\repos\MultipleInheritance\MultipleInheritance\obj\Debug\net8.0\MultipleInheritance.pdb
+C:\Users\QualMinds\source\repos\MultipleInheritance\MultipleInheritance\obj\Debug\net8.0\MultipleInheritance.genruntimeconfig.cache
+C:\Users\QualMinds\source\repos\MultipleInheritance\MultipleInheritance\obj\Debug\net8.0\ref\MultipleInheritance.dll
