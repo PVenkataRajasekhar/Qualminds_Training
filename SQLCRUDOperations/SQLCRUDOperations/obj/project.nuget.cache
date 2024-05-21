@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uf2yUH5fxAyZ1dJkQqL8q0WvXA9iAyZ8zcS6oePse6OjMjmbO7AWWiZaRloQkiBxk8JCFgO6xw6lguSwerpVtA==",
+  "dgSpecHash": "NPo2JR5HRFq8OiA4W43Yn8LXVLf9uZvxePWAC26IKHkMFfv/e9Kv3+MbacrfjfnvguZaPa9mbC0J6kM33KgxvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\QualMinds\\source\\repos\\SQLCRUDOperations\\SQLCRUDOperations\\SQLCRUDOperations.csproj",
+  "projectFilePath": "D:\\Qualminds_Training\\SQLCRUDOperations\\SQLCRUDOperations\\SQLCRUDOperations.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\QualMinds\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\QualMinds\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

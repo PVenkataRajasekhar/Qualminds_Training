@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\QualMinds\\source\\repos\\ProductManagement\\",
+  "WorkspaceRootPath": "D:\\Qualminds_Training\\ProductManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1E1F4E5E-DAC7-429B-9966-AB1A83AEB6F4}|ProductManagement\\ProductManagement.csproj|c:\\users\\qualminds\\source\\repos\\productmanagement\\productmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E1F4E5E-DAC7-429B-9966-AB1A83AEB6F4}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E1F4E5E-DAC7-429B-9966-AB1A83AEB6F4}|ProductManagement\\ProductManagement.csproj|c:\\users\\qualminds\\source\\repos\\productmanagement\\productmanagement\\dooperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E1F4E5E-DAC7-429B-9966-AB1A83AEB6F4}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\dooperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E1F4E5E-DAC7-429B-9966-AB1A83AEB6F4}|ProductManagement\\ProductManagement.csproj|c:\\users\\qualminds\\source\\repos\\productmanagement\\productmanagement\\productoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1E1F4E5E-DAC7-429B-9966-AB1A83AEB6F4}|ProductManagement\\ProductManagement.csproj|d:\\qualminds_training\\productmanagement\\productmanagement\\productoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E1F4E5E-DAC7-429B-9966-AB1A83AEB6F4}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\productoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E1F4E5E-DAC7-429B-9966-AB1A83AEB6F4}|ProductManagement\\ProductManagement.csproj|c:\\users\\qualminds\\source\\repos\\productmanagement\\productmanagement\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1E1F4E5E-DAC7-429B-9966-AB1A83AEB6F4}|ProductManagement\\ProductManagement.csproj|d:\\qualminds_training\\productmanagement\\productmanagement\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E1F4E5E-DAC7-429B-9966-AB1A83AEB6F4}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1F4E5E-DAC7-429B-9966-AB1A83AEB6F4}|ProductManagement\\ProductManagement.csproj|d:\\qualminds_training\\productmanagement\\productmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1F4E5E-DAC7-429B-9966-AB1A83AEB6F4}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1F4E5E-DAC7-429B-9966-AB1A83AEB6F4}|ProductManagement\\ProductManagement.csproj|d:\\qualminds_training\\productmanagement\\productmanagement\\dooperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1F4E5E-DAC7-429B-9966-AB1A83AEB6F4}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\dooperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,15 +26,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "DoOperations.cs",
-              "DocumentMoniker": "C:\\Users\\QualMinds\\source\\repos\\ProductManagement\\ProductManagement\\DoOperations.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\ProductManagement\\ProductManagement\\DoOperations.cs",
               "RelativeDocumentMoniker": "ProductManagement\\DoOperations.cs",
-              "ToolTip": "C:\\Users\\QualMinds\\source\\repos\\ProductManagement\\ProductManagement\\DoOperations.cs",
+              "ToolTip": "D:\\Qualminds_Training\\ProductManagement\\ProductManagement\\DoOperations.cs",
               "RelativeToolTip": "ProductManagement\\DoOperations.cs",
               "ViewState": "AQIAADIAAAAAAAAAAAAgwB4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -42,37 +42,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\QualMinds\\source\\repos\\ProductManagement\\ProductManagement\\Product.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\ProductManagement\\ProductManagement\\Product.cs",
               "RelativeDocumentMoniker": "ProductManagement\\Product.cs",
-              "ToolTip": "C:\\Users\\QualMinds\\source\\repos\\ProductManagement\\ProductManagement\\Product.cs",
+              "ToolTip": "D:\\Qualminds_Training\\ProductManagement\\ProductManagement\\Product.cs",
               "RelativeToolTip": "ProductManagement\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T04:31:57.434Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductOperations.cs",
-              "DocumentMoniker": "C:\\Users\\QualMinds\\source\\repos\\ProductManagement\\ProductManagement\\ProductOperations.cs",
-              "RelativeDocumentMoniker": "ProductManagement\\ProductOperations.cs",
-              "ToolTip": "C:\\Users\\QualMinds\\source\\repos\\ProductManagement\\ProductManagement\\ProductOperations.cs",
-              "RelativeToolTip": "ProductManagement\\ProductOperations.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T04:31:56.427Z"
+              "WhenOpened": "2024-04-20T04:31:57.434Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductOperations.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\ProductManagement\\ProductManagement\\ProductOperations.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\ProductOperations.cs",
+              "ToolTip": "D:\\Qualminds_Training\\ProductManagement\\ProductManagement\\ProductOperations.cs",
+              "RelativeToolTip": "ProductManagement\\ProductOperations.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T04:31:56.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\QualMinds\\source\\repos\\ProductManagement\\ProductManagement\\Program.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\ProductManagement\\ProductManagement\\Program.cs",
               "RelativeDocumentMoniker": "ProductManagement\\Program.cs",
-              "ToolTip": "C:\\Users\\QualMinds\\source\\repos\\ProductManagement\\ProductManagement\\Program.cs",
+              "ToolTip": "D:\\Qualminds_Training\\ProductManagement\\ProductManagement\\Program.cs",
               "RelativeToolTip": "ProductManagement\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAfAAAA",
+              "ViewState": "AQIAADsAAAAAAAAAAAAgwDYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T04:31:38.087Z",
               "EditorCaption": ""

@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\QualMinds\\source\\repos\\SQLCRUDOperations\\",
+  "WorkspaceRootPath": "D:\\Qualminds_Training\\SQLCRUDOperations\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82727895-7762-485B-8CC9-DC54CA0B85CE}|SQLCRUDOperations\\SQLCRUDOperations.csproj|c:\\users\\qualminds\\source\\repos\\sqlcrudoperations\\sqlcrudoperations\\employeeoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82727895-7762-485B-8CC9-DC54CA0B85CE}|SQLCRUDOperations\\SQLCRUDOperations.csproj|solutionrelative:sqlcrudoperations\\employeeoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82727895-7762-485B-8CC9-DC54CA0B85CE}|SQLCRUDOperations\\SQLCRUDOperations.csproj|c:\\users\\qualminds\\source\\repos\\sqlcrudoperations\\sqlcrudoperations\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82727895-7762-485B-8CC9-DC54CA0B85CE}|SQLCRUDOperations\\SQLCRUDOperations.csproj|d:\\qualminds_training\\sqlcrudoperations\\sqlcrudoperations\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82727895-7762-485B-8CC9-DC54CA0B85CE}|SQLCRUDOperations\\SQLCRUDOperations.csproj|solutionrelative:sqlcrudoperations\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82727895-7762-485B-8CC9-DC54CA0B85CE}|SQLCRUDOperations\\SQLCRUDOperations.csproj|c:\\users\\qualminds\\source\\repos\\sqlcrudoperations\\sqlcrudoperations\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82727895-7762-485B-8CC9-DC54CA0B85CE}|SQLCRUDOperations\\SQLCRUDOperations.csproj|d:\\qualminds_training\\sqlcrudoperations\\sqlcrudoperations\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82727895-7762-485B-8CC9-DC54CA0B85CE}|SQLCRUDOperations\\SQLCRUDOperations.csproj|solutionrelative:sqlcrudoperations\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82727895-7762-485B-8CC9-DC54CA0B85CE}|SQLCRUDOperations\\SQLCRUDOperations.csproj|c:\\users\\qualminds\\source\\repos\\sqlcrudoperations\\sqlcrudoperations\\menuclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82727895-7762-485B-8CC9-DC54CA0B85CE}|SQLCRUDOperations\\SQLCRUDOperations.csproj|d:\\qualminds_training\\sqlcrudoperations\\sqlcrudoperations\\menuclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82727895-7762-485B-8CC9-DC54CA0B85CE}|SQLCRUDOperations\\SQLCRUDOperations.csproj|solutionrelative:sqlcrudoperations\\menuclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82727895-7762-485B-8CC9-DC54CA0B85CE}|SQLCRUDOperations\\SQLCRUDOperations.csproj|c:\\users\\qualminds\\source\\repos\\sqlcrudoperations\\sqlcrudoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{82727895-7762-485B-8CC9-DC54CA0B85CE}|SQLCRUDOperations\\SQLCRUDOperations.csproj|d:\\qualminds_training\\sqlcrudoperations\\sqlcrudoperations\\employeeoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82727895-7762-485B-8CC9-DC54CA0B85CE}|SQLCRUDOperations\\SQLCRUDOperations.csproj|solutionrelative:sqlcrudoperations\\employeeoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82727895-7762-485B-8CC9-DC54CA0B85CE}|SQLCRUDOperations\\SQLCRUDOperations.csproj|d:\\qualminds_training\\sqlcrudoperations\\sqlcrudoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82727895-7762-485B-8CC9-DC54CA0B85CE}|SQLCRUDOperations\\SQLCRUDOperations.csproj|solutionrelative:sqlcrudoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -33,7 +33,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -46,11 +46,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "EmployeeDetails.cs",
-              "DocumentMoniker": "C:\\Users\\QualMinds\\source\\repos\\SQLCRUDOperations\\SQLCRUDOperations\\EmployeeDetails.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\SQLCRUDOperations\\SQLCRUDOperations\\EmployeeDetails.cs",
               "RelativeDocumentMoniker": "SQLCRUDOperations\\EmployeeDetails.cs",
-              "ToolTip": "C:\\Users\\QualMinds\\source\\repos\\SQLCRUDOperations\\SQLCRUDOperations\\EmployeeDetails.cs",
+              "ToolTip": "D:\\Qualminds_Training\\SQLCRUDOperations\\SQLCRUDOperations\\EmployeeDetails.cs",
               "RelativeToolTip": "SQLCRUDOperations\\EmployeeDetails.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -59,39 +59,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "EmployeeOperations.cs",
-              "DocumentMoniker": "C:\\Users\\QualMinds\\source\\repos\\SQLCRUDOperations\\SQLCRUDOperations\\EmployeeOperations.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\SQLCRUDOperations\\SQLCRUDOperations\\EmployeeOperations.cs",
               "RelativeDocumentMoniker": "SQLCRUDOperations\\EmployeeOperations.cs",
-              "ToolTip": "C:\\Users\\QualMinds\\source\\repos\\SQLCRUDOperations\\SQLCRUDOperations\\EmployeeOperations.cs",
+              "ToolTip": "D:\\Qualminds_Training\\SQLCRUDOperations\\SQLCRUDOperations\\EmployeeOperations.cs",
               "RelativeToolTip": "SQLCRUDOperations\\EmployeeOperations.cs",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAAAFIAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-01T10:35:44.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Operations.cs",
-              "DocumentMoniker": "C:\\Users\\QualMinds\\source\\repos\\SQLCRUDOperations\\SQLCRUDOperations\\Operations.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\SQLCRUDOperations\\SQLCRUDOperations\\Operations.cs",
               "RelativeDocumentMoniker": "SQLCRUDOperations\\Operations.cs",
-              "ToolTip": "C:\\Users\\QualMinds\\source\\repos\\SQLCRUDOperations\\SQLCRUDOperations\\Operations.cs",
+              "ToolTip": "D:\\Qualminds_Training\\SQLCRUDOperations\\SQLCRUDOperations\\Operations.cs",
               "RelativeToolTip": "SQLCRUDOperations\\Operations.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAUAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-01T09:46:24.543Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "MenuClass.cs",
-              "DocumentMoniker": "C:\\Users\\QualMinds\\source\\repos\\SQLCRUDOperations\\SQLCRUDOperations\\MenuClass.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\SQLCRUDOperations\\SQLCRUDOperations\\MenuClass.cs",
               "RelativeDocumentMoniker": "SQLCRUDOperations\\MenuClass.cs",
-              "ToolTip": "C:\\Users\\QualMinds\\source\\repos\\SQLCRUDOperations\\SQLCRUDOperations\\MenuClass.cs",
+              "ToolTip": "D:\\Qualminds_Training\\SQLCRUDOperations\\SQLCRUDOperations\\MenuClass.cs",
               "RelativeToolTip": "SQLCRUDOperations\\MenuClass.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAgwDoAAAARAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAYwDoAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-01T09:34:21.638Z",
               "EditorCaption": ""
@@ -100,14 +100,13 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\QualMinds\\source\\repos\\SQLCRUDOperations\\SQLCRUDOperations\\Program.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\SQLCRUDOperations\\SQLCRUDOperations\\Program.cs",
               "RelativeDocumentMoniker": "SQLCRUDOperations\\Program.cs",
-              "ToolTip": "C:\\Users\\QualMinds\\source\\repos\\SQLCRUDOperations\\SQLCRUDOperations\\Program.cs",
+              "ToolTip": "D:\\Qualminds_Training\\SQLCRUDOperations\\SQLCRUDOperations\\Program.cs",
               "RelativeToolTip": "SQLCRUDOperations\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T06:38:04.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-27T06:38:04.73Z"
             }
           ]
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\QualMinds\\source\\repos\\SQLCRUDOperations\\SQLCRUDOperations\\SQLCRUDOperations.csproj": {}
+    "D:\\Qualminds_Training\\SQLCRUDOperations\\SQLCRUDOperations\\SQLCRUDOperations.csproj": {}
   },
   "projects": {
-    "C:\\Users\\QualMinds\\source\\repos\\SQLCRUDOperations\\SQLCRUDOperations\\SQLCRUDOperations.csproj": {
+    "D:\\Qualminds_Training\\SQLCRUDOperations\\SQLCRUDOperations\\SQLCRUDOperations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\QualMinds\\source\\repos\\SQLCRUDOperations\\SQLCRUDOperations\\SQLCRUDOperations.csproj",
+        "projectUniqueName": "D:\\Qualminds_Training\\SQLCRUDOperations\\SQLCRUDOperations\\SQLCRUDOperations.csproj",
         "projectName": "SQLCRUDOperations",
-        "projectPath": "C:\\Users\\QualMinds\\source\\repos\\SQLCRUDOperations\\SQLCRUDOperations\\SQLCRUDOperations.csproj",
+        "projectPath": "D:\\Qualminds_Training\\SQLCRUDOperations\\SQLCRUDOperations\\SQLCRUDOperations.csproj",
         "packagesPath": "C:\\Users\\QualMinds\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\QualMinds\\source\\repos\\SQLCRUDOperations\\SQLCRUDOperations\\obj\\",
+        "outputPath": "D:\\Qualminds_Training\\SQLCRUDOperations\\SQLCRUDOperations\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\QualMinds\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,7 +21,7 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\microsoft.net.test.sdk": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Qualminds_Training\\BankingAssignment5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0218F50C-E743-4A7B-B29F-F95B9D06DD7F}|BankingAssignment5.csproj|d:\\qualminds_training\\bankingassignment5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0218F50C-E743-4A7B-B29F-F95B9D06DD7F}|BankingAssignment5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0218F50C-E743-4A7B-B29F-F95B9D06DD7F}|BankingAssignment5.csproj|d:\\qualminds_training\\bankingassignment5\\withdrawtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0218F50C-E743-4A7B-B29F-F95B9D06DD7F}|BankingAssignment5.csproj|solutionrelative:withdrawtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0218F50C-E743-4A7B-B29F-F95B9D06DD7F}|BankingAssignment5.csproj|d:\\qualminds_training\\bankingassignment5\\transfertransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0218F50C-E743-4A7B-B29F-F95B9D06DD7F}|BankingAssignment5.csproj|solutionrelative:transfertransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0218F50C-E743-4A7B-B29F-F95B9D06DD7F}|BankingAssignment5.csproj|d:\\qualminds_training\\bankingassignment5\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0218F50C-E743-4A7B-B29F-F95B9D06DD7F}|BankingAssignment5.csproj|solutionrelative:transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0218F50C-E743-4A7B-B29F-F95B9D06DD7F}|BankingAssignment5.csproj|d:\\qualminds_training\\bankingassignment5\\deposittransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0218F50C-E743-4A7B-B29F-F95B9D06DD7F}|BankingAssignment5.csproj|solutionrelative:deposittransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0218F50C-E743-4A7B-B29F-F95B9D06DD7F}|BankingAssignment5.csproj|d:\\qualminds_training\\bankingassignment5\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0218F50C-E743-4A7B-B29F-F95B9D06DD7F}|BankingAssignment5.csproj|solutionrelative:account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0218F50C-E743-4A7B-B29F-F95B9D06DD7F}|BankingAssignment5.csproj|d:\\qualminds_training\\bankingassignment5\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0218F50C-E743-4A7B-B29F-F95B9D06DD7F}|BankingAssignment5.csproj|solutionrelative:bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WithdrawTransaction.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\BankingAssignment5\\WithdrawTransaction.cs",
+              "RelativeDocumentMoniker": "WithdrawTransaction.cs",
+              "ToolTip": "D:\\Qualminds_Training\\BankingAssignment5\\WithdrawTransaction.cs",
+              "RelativeToolTip": "WithdrawTransaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T14:05:32.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransferTransaction.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\BankingAssignment5\\TransferTransaction.cs",
+              "RelativeDocumentMoniker": "TransferTransaction.cs",
+              "ToolTip": "D:\\Qualminds_Training\\BankingAssignment5\\TransferTransaction.cs",
+              "RelativeToolTip": "TransferTransaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T14:05:31.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\BankingAssignment5\\Transaction.cs",
+              "RelativeDocumentMoniker": "Transaction.cs",
+              "ToolTip": "D:\\Qualminds_Training\\BankingAssignment5\\Transaction.cs",
+              "RelativeToolTip": "Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T14:05:30.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\BankingAssignment5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Qualminds_Training\\BankingAssignment5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAgwBIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T14:05:25.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepositTransaction.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\BankingAssignment5\\DepositTransaction.cs",
+              "RelativeDocumentMoniker": "DepositTransaction.cs",
+              "ToolTip": "D:\\Qualminds_Training\\BankingAssignment5\\DepositTransaction.cs",
+              "RelativeToolTip": "DepositTransaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T14:05:13.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\BankingAssignment5\\Bank.cs",
+              "RelativeDocumentMoniker": "Bank.cs",
+              "ToolTip": "D:\\Qualminds_Training\\BankingAssignment5\\Bank.cs",
+              "RelativeToolTip": "Bank.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T14:05:11.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\BankingAssignment5\\Account.cs",
+              "RelativeDocumentMoniker": "Account.cs",
+              "ToolTip": "D:\\Qualminds_Training\\BankingAssignment5\\Account.cs",
+              "RelativeToolTip": "Account.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T14:05:08.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

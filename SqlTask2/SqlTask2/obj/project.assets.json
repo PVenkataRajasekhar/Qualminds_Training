@@ -2177,11 +2177,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\QualMinds\\source\\repos\\SqlTask2\\SqlTask2\\SqlTask2.csproj",
+      "projectUniqueName": "D:\\Qualminds_Training\\SqlTask2\\SqlTask2\\SqlTask2.csproj",
       "projectName": "SqlTask2",
-      "projectPath": "C:\\Users\\QualMinds\\source\\repos\\SqlTask2\\SqlTask2\\SqlTask2.csproj",
+      "projectPath": "D:\\Qualminds_Training\\SqlTask2\\SqlTask2\\SqlTask2.csproj",
       "packagesPath": "C:\\Users\\QualMinds\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\QualMinds\\source\\repos\\SqlTask2\\SqlTask2\\obj\\",
+      "outputPath": "D:\\Qualminds_Training\\SqlTask2\\SqlTask2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\QualMinds\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2191,7 +2191,7 @@
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\microsoft.net.test.sdk": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

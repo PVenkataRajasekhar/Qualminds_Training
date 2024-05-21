@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SQLCRUDOperations
-build_property.ProjectDir = C:\Users\QualMinds\source\repos\SQLCRUDOperations\SQLCRUDOperations\
+build_property.ProjectDir = D:\Qualminds_Training\SQLCRUDOperations\SQLCRUDOperations\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

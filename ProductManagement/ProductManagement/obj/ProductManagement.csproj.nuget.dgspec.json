@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ProductManagement\\ProductManagement\\ProductManagement.csproj": {}
+    "D:\\Qualminds_Training\\ProductManagement\\ProductManagement\\ProductManagement.csproj": {}
   },
   "projects": {
-    "D:\\ProductManagement\\ProductManagement\\ProductManagement.csproj": {
+    "D:\\Qualminds_Training\\ProductManagement\\ProductManagement\\ProductManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProductManagement\\ProductManagement\\ProductManagement.csproj",
+        "projectUniqueName": "D:\\Qualminds_Training\\ProductManagement\\ProductManagement\\ProductManagement.csproj",
         "projectName": "ProductManagement",
-        "projectPath": "D:\\ProductManagement\\ProductManagement\\ProductManagement.csproj",
+        "projectPath": "D:\\Qualminds_Training\\ProductManagement\\ProductManagement\\ProductManagement.csproj",
         "packagesPath": "C:\\Users\\QualMinds\\.nuget\\packages\\",
-        "outputPath": "D:\\ProductManagement\\ProductManagement\\obj\\",
+        "outputPath": "D:\\Qualminds_Training\\ProductManagement\\ProductManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\QualMinds\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,7 +21,7 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\microsoft.net.test.sdk": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

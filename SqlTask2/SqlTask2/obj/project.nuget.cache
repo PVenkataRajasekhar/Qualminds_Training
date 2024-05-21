@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0xvbS1Xmm9WAeUJ1vukY6c5kOtbH7Ia2Soi0CL116BxIsO9k7PtRvC4KjOgR3+TfywDs8+jeV5CRoCLpL3HFiA==",
+  "dgSpecHash": "z+Z/0ZaiQs7ZCLOpiOQHNxUpPaPZUqsET1uZcMcA+g4tpHiWJHyVyGBi9i606leAB9LqobqqwQeY3GtS3INNrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\QualMinds\\source\\repos\\SqlTask2\\SqlTask2\\SqlTask2.csproj",
+  "projectFilePath": "D:\\Qualminds_Training\\SqlTask2\\SqlTask2\\SqlTask2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\QualMinds\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\QualMinds\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
