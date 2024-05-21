@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Qualminds_Training\\Mentors_training\\DTOExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F64B40C-B64A-43EA-9EBE-20837AD444E2}|DTOExample\\DTOExample.csproj|d:\\qualminds_training\\mentors_training\\dtoexample\\dtoexample\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F64B40C-B64A-43EA-9EBE-20837AD444E2}|DTOExample\\DTOExample.csproj|solutionrelative:dtoexample\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F64B40C-B64A-43EA-9EBE-20837AD444E2}|DTOExample\\DTOExample.csproj|d:\\qualminds_training\\mentors_training\\dtoexample\\dtoexample\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F64B40C-B64A-43EA-9EBE-20837AD444E2}|DTOExample\\DTOExample.csproj|solutionrelative:dtoexample\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F64B40C-B64A-43EA-9EBE-20837AD444E2}|DTOExample\\DTOExample.csproj|d:\\qualminds_training\\mentors_training\\dtoexample\\dtoexample\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F64B40C-B64A-43EA-9EBE-20837AD444E2}|DTOExample\\DTOExample.csproj|solutionrelative:dtoexample\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F64B40C-B64A-43EA-9EBE-20837AD444E2}|DTOExample\\DTOExample.csproj|d:\\qualminds_training\\mentors_training\\dtoexample\\dtoexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F64B40C-B64A-43EA-9EBE-20837AD444E2}|DTOExample\\DTOExample.csproj|solutionrelative:dtoexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F64B40C-B64A-43EA-9EBE-20837AD444E2}|DTOExample\\DTOExample.csproj|d:\\qualminds_training\\mentors_training\\dtoexample\\dtoexample\\dto\\readdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F64B40C-B64A-43EA-9EBE-20837AD444E2}|DTOExample\\DTOExample.csproj|solutionrelative:dtoexample\\dto\\readdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F64B40C-B64A-43EA-9EBE-20837AD444E2}|DTOExample\\DTOExample.csproj|d:\\qualminds_training\\mentors_training\\dtoexample\\dtoexample\\dto\\writedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F64B40C-B64A-43EA-9EBE-20837AD444E2}|DTOExample\\DTOExample.csproj|solutionrelative:dtoexample\\dto\\writedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\DTOExample\\DTOExample\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "DTOExample\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\DTOExample\\DTOExample\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "DTOExample\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:01:15.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Context.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\DTOExample\\DTOExample\\Data\\Context.cs",
+              "RelativeDocumentMoniker": "DTOExample\\Data\\Context.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\DTOExample\\DTOExample\\Data\\Context.cs",
+              "RelativeToolTip": "DTOExample\\Data\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:55:32.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\DTOExample\\DTOExample\\Program.cs",
+              "RelativeDocumentMoniker": "DTOExample\\Program.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\DTOExample\\DTOExample\\Program.cs",
+              "RelativeToolTip": "DTOExample\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:54:49.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WriteDTO.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\DTOExample\\DTOExample\\DTO\\WriteDTO.cs",
+              "RelativeDocumentMoniker": "DTOExample\\DTO\\WriteDTO.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\DTOExample\\DTOExample\\DTO\\WriteDTO.cs",
+              "RelativeToolTip": "DTOExample\\DTO\\WriteDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:50:20.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReadDTO.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\DTOExample\\DTOExample\\DTO\\ReadDTO.cs",
+              "RelativeDocumentMoniker": "DTOExample\\DTO\\ReadDTO.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\DTOExample\\DTOExample\\DTO\\ReadDTO.cs",
+              "RelativeToolTip": "DTOExample\\DTO\\ReadDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:49:46.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\DTOExample\\DTOExample\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "DTOExample\\Model\\Student.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\DTOExample\\DTOExample\\Model\\Student.cs",
+              "RelativeToolTip": "DTOExample\\Model\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:49:02.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

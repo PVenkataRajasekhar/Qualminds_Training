@@ -1,0 +1,12 @@
+D:\Qualminds_Training\Mentors_training\CustomerCRUDinAPI\Customer.Core\bin\Debug\net8.0\Customer.Core.deps.json
+D:\Qualminds_Training\Mentors_training\CustomerCRUDinAPI\Customer.Core\bin\Debug\net8.0\Customer.Core.dll
+D:\Qualminds_Training\Mentors_training\CustomerCRUDinAPI\Customer.Core\bin\Debug\net8.0\Customer.Core.pdb
+D:\Qualminds_Training\Mentors_training\CustomerCRUDinAPI\Customer.Core\obj\Debug\net8.0\Customer.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Qualminds_Training\Mentors_training\CustomerCRUDinAPI\Customer.Core\obj\Debug\net8.0\Customer.Core.AssemblyInfoInputs.cache
+D:\Qualminds_Training\Mentors_training\CustomerCRUDinAPI\Customer.Core\obj\Debug\net8.0\Customer.Core.AssemblyInfo.cs
+D:\Qualminds_Training\Mentors_training\CustomerCRUDinAPI\Customer.Core\obj\Debug\net8.0\Customer.Core.csproj.CoreCompileInputs.cache
+D:\Qualminds_Training\Mentors_training\CustomerCRUDinAPI\Customer.Core\obj\Debug\net8.0\Customer.Core.sourcelink.json
+D:\Qualminds_Training\Mentors_training\CustomerCRUDinAPI\Customer.Core\obj\Debug\net8.0\Customer.Core.dll
+D:\Qualminds_Training\Mentors_training\CustomerCRUDinAPI\Customer.Core\obj\Debug\net8.0\refint\Customer.Core.dll
+D:\Qualminds_Training\Mentors_training\CustomerCRUDinAPI\Customer.Core\obj\Debug\net8.0\Customer.Core.pdb
+D:\Qualminds_Training\Mentors_training\CustomerCRUDinAPI\Customer.Core\obj\Debug\net8.0\ref\Customer.Core.dll

@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Qualminds_Training\\Mentors_training\\SynchronousCustomerProductModel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{797EE1BF-CC56-480B-80C0-B8938F302BE4}|SynchronousCustomerProductModel\\SynchronousCustomerProductModel.csproj|d:\\qualminds_training\\mentors_training\\synchronouscustomerproductmodel\\synchronouscustomerproductmodel\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797EE1BF-CC56-480B-80C0-B8938F302BE4}|SynchronousCustomerProductModel\\SynchronousCustomerProductModel.csproj|solutionrelative:synchronouscustomerproductmodel\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797EE1BF-CC56-480B-80C0-B8938F302BE4}|SynchronousCustomerProductModel\\SynchronousCustomerProductModel.csproj|d:\\qualminds_training\\mentors_training\\synchronouscustomerproductmodel\\synchronouscustomerproductmodel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{797EE1BF-CC56-480B-80C0-B8938F302BE4}|SynchronousCustomerProductModel\\SynchronousCustomerProductModel.csproj|solutionrelative:synchronouscustomerproductmodel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797EE1BF-CC56-480B-80C0-B8938F302BE4}|SynchronousCustomerProductModel\\SynchronousCustomerProductModel.csproj|d:\\qualminds_training\\mentors_training\\synchronouscustomerproductmodel\\synchronouscustomerproductmodel\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{797EE1BF-CC56-480B-80C0-B8938F302BE4}|SynchronousCustomerProductModel\\SynchronousCustomerProductModel.csproj|solutionrelative:synchronouscustomerproductmodel\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797EE1BF-CC56-480B-80C0-B8938F302BE4}|SynchronousCustomerProductModel\\SynchronousCustomerProductModel.csproj|d:\\qualminds_training\\mentors_training\\synchronouscustomerproductmodel\\synchronouscustomerproductmodel\\controllers\\customerproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797EE1BF-CC56-480B-80C0-B8938F302BE4}|SynchronousCustomerProductModel\\SynchronousCustomerProductModel.csproj|solutionrelative:synchronouscustomerproductmodel\\controllers\\customerproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797EE1BF-CC56-480B-80C0-B8938F302BE4}|SynchronousCustomerProductModel\\SynchronousCustomerProductModel.csproj|d:\\qualminds_training\\mentors_training\\synchronouscustomerproductmodel\\synchronouscustomerproductmodel\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797EE1BF-CC56-480B-80C0-B8938F302BE4}|SynchronousCustomerProductModel\\SynchronousCustomerProductModel.csproj|solutionrelative:synchronouscustomerproductmodel\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797EE1BF-CC56-480B-80C0-B8938F302BE4}|SynchronousCustomerProductModel\\SynchronousCustomerProductModel.csproj|d:\\qualminds_training\\mentors_training\\synchronouscustomerproductmodel\\synchronouscustomerproductmodel\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797EE1BF-CC56-480B-80C0-B8938F302BE4}|SynchronousCustomerProductModel\\SynchronousCustomerProductModel.csproj|solutionrelative:synchronouscustomerproductmodel\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797EE1BF-CC56-480B-80C0-B8938F302BE4}|SynchronousCustomerProductModel\\SynchronousCustomerProductModel.csproj|d:\\qualminds_training\\mentors_training\\synchronouscustomerproductmodel\\synchronouscustomerproductmodel\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797EE1BF-CC56-480B-80C0-B8938F302BE4}|SynchronousCustomerProductModel\\SynchronousCustomerProductModel.csproj|solutionrelative:synchronouscustomerproductmodel\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797EE1BF-CC56-480B-80C0-B8938F302BE4}|SynchronousCustomerProductModel\\SynchronousCustomerProductModel.csproj|d:\\qualminds_training\\mentors_training\\synchronouscustomerproductmodel\\synchronouscustomerproductmodel\\models\\details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797EE1BF-CC56-480B-80C0-B8938F302BE4}|SynchronousCustomerProductModel\\SynchronousCustomerProductModel.csproj|solutionrelative:synchronouscustomerproductmodel\\models\\details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797EE1BF-CC56-480B-80C0-B8938F302BE4}|SynchronousCustomerProductModel\\SynchronousCustomerProductModel.csproj|d:\\qualminds_training\\mentors_training\\synchronouscustomerproductmodel\\synchronouscustomerproductmodel\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797EE1BF-CC56-480B-80C0-B8938F302BE4}|SynchronousCustomerProductModel\\SynchronousCustomerProductModel.csproj|solutionrelative:synchronouscustomerproductmodel\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797EE1BF-CC56-480B-80C0-B8938F302BE4}|SynchronousCustomerProductModel\\SynchronousCustomerProductModel.csproj|d:\\qualminds_training\\mentors_training\\synchronouscustomerproductmodel\\synchronouscustomerproductmodel\\models\\customerproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797EE1BF-CC56-480B-80C0-B8938F302BE4}|SynchronousCustomerProductModel\\SynchronousCustomerProductModel.csproj|solutionrelative:synchronouscustomerproductmodel\\models\\customerproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\SynchronousCustomerProductModel\\SynchronousCustomerProductModel\\appsettings.json",
+              "RelativeDocumentMoniker": "SynchronousCustomerProductModel\\appsettings.json",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\SynchronousCustomerProductModel\\SynchronousCustomerProductModel\\appsettings.json",
+              "RelativeToolTip": "SynchronousCustomerProductModel\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-16T12:55:13.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\SynchronousCustomerProductModel\\SynchronousCustomerProductModel\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SynchronousCustomerProductModel\\appsettings.Development.json",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\SynchronousCustomerProductModel\\SynchronousCustomerProductModel\\appsettings.Development.json",
+              "RelativeToolTip": "SynchronousCustomerProductModel\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-16T12:55:10.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerProductController.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\SynchronousCustomerProductModel\\SynchronousCustomerProductModel\\Controllers\\CustomerProductController.cs",
+              "RelativeDocumentMoniker": "SynchronousCustomerProductModel\\Controllers\\CustomerProductController.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\SynchronousCustomerProductModel\\SynchronousCustomerProductModel\\Controllers\\CustomerProductController.cs",
+              "RelativeToolTip": "SynchronousCustomerProductModel\\Controllers\\CustomerProductController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T09:50:46.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\SynchronousCustomerProductModel\\SynchronousCustomerProductModel\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "SynchronousCustomerProductModel\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\SynchronousCustomerProductModel\\SynchronousCustomerProductModel\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "SynchronousCustomerProductModel\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAuwBAAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:54:11.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\SynchronousCustomerProductModel\\SynchronousCustomerProductModel\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "SynchronousCustomerProductModel\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\SynchronousCustomerProductModel\\SynchronousCustomerProductModel\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "SynchronousCustomerProductModel\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAYwBAAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:46:31.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerProduct.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\SynchronousCustomerProductModel\\SynchronousCustomerProductModel\\Models\\CustomerProduct.cs",
+              "RelativeDocumentMoniker": "SynchronousCustomerProductModel\\Models\\CustomerProduct.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\SynchronousCustomerProductModel\\SynchronousCustomerProductModel\\Models\\CustomerProduct.cs",
+              "RelativeToolTip": "SynchronousCustomerProductModel\\Models\\CustomerProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:37:00.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\SynchronousCustomerProductModel\\SynchronousCustomerProductModel\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SynchronousCustomerProductModel\\Models\\Product.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\SynchronousCustomerProductModel\\SynchronousCustomerProductModel\\Models\\Product.cs",
+              "RelativeToolTip": "SynchronousCustomerProductModel\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:35:39.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Context.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\SynchronousCustomerProductModel\\SynchronousCustomerProductModel\\Data\\Context.cs",
+              "RelativeDocumentMoniker": "SynchronousCustomerProductModel\\Data\\Context.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\SynchronousCustomerProductModel\\SynchronousCustomerProductModel\\Data\\Context.cs",
+              "RelativeToolTip": "SynchronousCustomerProductModel\\Data\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:31:21.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\SynchronousCustomerProductModel\\SynchronousCustomerProductModel\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "SynchronousCustomerProductModel\\Models\\Customer.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\SynchronousCustomerProductModel\\SynchronousCustomerProductModel\\Models\\Customer.cs",
+              "RelativeToolTip": "SynchronousCustomerProductModel\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:30:02.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\SynchronousCustomerProductModel\\SynchronousCustomerProductModel\\Models\\Details.cs",
+              "RelativeDocumentMoniker": "SynchronousCustomerProductModel\\Models\\Details.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\SynchronousCustomerProductModel\\SynchronousCustomerProductModel\\Models\\Details.cs",
+              "RelativeToolTip": "SynchronousCustomerProductModel\\Models\\Details.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T09:58:42.301Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

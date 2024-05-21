@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LbDdSYoXCluejYZ6Qw2LnQuRKa0K4oWt0wP/Oe5DGQg=",
+  "Source": "SynchronousModelWebAPI",
+  "BasePath": "_content/SynchronousModelWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

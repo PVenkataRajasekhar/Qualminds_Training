@@ -1,0 +1,15 @@
+D:\Qualminds_Training\Mentors_training\StackOperations\StackOperations\bin\Debug\net8.0\StackOperations.exe
+D:\Qualminds_Training\Mentors_training\StackOperations\StackOperations\bin\Debug\net8.0\StackOperations.deps.json
+D:\Qualminds_Training\Mentors_training\StackOperations\StackOperations\bin\Debug\net8.0\StackOperations.runtimeconfig.json
+D:\Qualminds_Training\Mentors_training\StackOperations\StackOperations\bin\Debug\net8.0\StackOperations.dll
+D:\Qualminds_Training\Mentors_training\StackOperations\StackOperations\bin\Debug\net8.0\StackOperations.pdb
+D:\Qualminds_Training\Mentors_training\StackOperations\StackOperations\obj\Debug\net8.0\StackOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Qualminds_Training\Mentors_training\StackOperations\StackOperations\obj\Debug\net8.0\StackOperations.AssemblyInfoInputs.cache
+D:\Qualminds_Training\Mentors_training\StackOperations\StackOperations\obj\Debug\net8.0\StackOperations.AssemblyInfo.cs
+D:\Qualminds_Training\Mentors_training\StackOperations\StackOperations\obj\Debug\net8.0\StackOperations.csproj.CoreCompileInputs.cache
+D:\Qualminds_Training\Mentors_training\StackOperations\StackOperations\obj\Debug\net8.0\StackOperations.sourcelink.json
+D:\Qualminds_Training\Mentors_training\StackOperations\StackOperations\obj\Debug\net8.0\StackOperations.dll
+D:\Qualminds_Training\Mentors_training\StackOperations\StackOperations\obj\Debug\net8.0\refint\StackOperations.dll
+D:\Qualminds_Training\Mentors_training\StackOperations\StackOperations\obj\Debug\net8.0\StackOperations.pdb
+D:\Qualminds_Training\Mentors_training\StackOperations\StackOperations\obj\Debug\net8.0\StackOperations.genruntimeconfig.cache
+D:\Qualminds_Training\Mentors_training\StackOperations\StackOperations\obj\Debug\net8.0\ref\StackOperations.dll

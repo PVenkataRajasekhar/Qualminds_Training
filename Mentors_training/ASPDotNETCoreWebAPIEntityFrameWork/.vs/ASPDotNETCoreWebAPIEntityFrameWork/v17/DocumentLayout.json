@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Qualminds_Training\\Mentors_training\\ASPDotNETCoreWebAPIEntityFrameWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{826E5B99-F8ED-4470-87B8-5EADA2543AA9}|ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork.csproj|d:\\qualminds_training\\mentors_training\\aspdotnetcorewebapientityframework\\aspdotnetcorewebapientityframework\\controllers\\customerproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826E5B99-F8ED-4470-87B8-5EADA2543AA9}|ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork.csproj|solutionrelative:aspdotnetcorewebapientityframework\\controllers\\customerproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826E5B99-F8ED-4470-87B8-5EADA2543AA9}|ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork.csproj|d:\\qualminds_training\\mentors_training\\aspdotnetcorewebapientityframework\\aspdotnetcorewebapientityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826E5B99-F8ED-4470-87B8-5EADA2543AA9}|ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork.csproj|solutionrelative:aspdotnetcorewebapientityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826E5B99-F8ED-4470-87B8-5EADA2543AA9}|ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork.csproj|d:\\qualminds_training\\mentors_training\\aspdotnetcorewebapientityframework\\aspdotnetcorewebapientityframework\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826E5B99-F8ED-4470-87B8-5EADA2543AA9}|ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork.csproj|solutionrelative:aspdotnetcorewebapientityframework\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826E5B99-F8ED-4470-87B8-5EADA2543AA9}|ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork.csproj|d:\\qualminds_training\\mentors_training\\aspdotnetcorewebapientityframework\\aspdotnetcorewebapientityframework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{826E5B99-F8ED-4470-87B8-5EADA2543AA9}|ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork.csproj|solutionrelative:aspdotnetcorewebapientityframework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826E5B99-F8ED-4470-87B8-5EADA2543AA9}|ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork.csproj|d:\\qualminds_training\\mentors_training\\aspdotnetcorewebapientityframework\\aspdotnetcorewebapientityframework\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826E5B99-F8ED-4470-87B8-5EADA2543AA9}|ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork.csproj|solutionrelative:aspdotnetcorewebapientityframework\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826E5B99-F8ED-4470-87B8-5EADA2543AA9}|ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork.csproj|d:\\qualminds_training\\mentors_training\\aspdotnetcorewebapientityframework\\aspdotnetcorewebapientityframework\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826E5B99-F8ED-4470-87B8-5EADA2543AA9}|ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork.csproj|solutionrelative:aspdotnetcorewebapientityframework\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826E5B99-F8ED-4470-87B8-5EADA2543AA9}|ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork.csproj|d:\\qualminds_training\\mentors_training\\aspdotnetcorewebapientityframework\\aspdotnetcorewebapientityframework\\models\\details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826E5B99-F8ED-4470-87B8-5EADA2543AA9}|ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork.csproj|solutionrelative:aspdotnetcorewebapientityframework\\models\\details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826E5B99-F8ED-4470-87B8-5EADA2543AA9}|ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork.csproj|d:\\qualminds_training\\mentors_training\\aspdotnetcorewebapientityframework\\aspdotnetcorewebapientityframework\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826E5B99-F8ED-4470-87B8-5EADA2543AA9}|ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork.csproj|solutionrelative:aspdotnetcorewebapientityframework\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826E5B99-F8ED-4470-87B8-5EADA2543AA9}|ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork.csproj|d:\\qualminds_training\\mentors_training\\aspdotnetcorewebapientityframework\\aspdotnetcorewebapientityframework\\models\\customerproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826E5B99-F8ED-4470-87B8-5EADA2543AA9}|ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork.csproj|solutionrelative:aspdotnetcorewebapientityframework\\models\\customerproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826E5B99-F8ED-4470-87B8-5EADA2543AA9}|ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork.csproj|d:\\qualminds_training\\mentors_training\\aspdotnetcorewebapientityframework\\aspdotnetcorewebapientityframework\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826E5B99-F8ED-4470-87B8-5EADA2543AA9}|ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork.csproj|solutionrelative:aspdotnetcorewebapientityframework\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Qualminds_Training\\Mentors_training\\ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork\\Migrations\\20240511191124_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ASPDotNETCoreWebAPIEntityFrameWork\\Migrations\\20240511191124_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ASPDotNETCoreWebAPIEntityFrameWork\\Models\\Product.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork\\Models\\Product.cs",
+              "RelativeToolTip": "ASPDotNETCoreWebAPIEntityFrameWork\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T18:57:11.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork\\Program.cs",
+              "RelativeDocumentMoniker": "ASPDotNETCoreWebAPIEntityFrameWork\\Program.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork\\Program.cs",
+              "RelativeToolTip": "ASPDotNETCoreWebAPIEntityFrameWork\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T19:01:10.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "ASPDotNETCoreWebAPIEntityFrameWork\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "ASPDotNETCoreWebAPIEntityFrameWork\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T19:02:09.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ASPDotNETCoreWebAPIEntityFrameWork\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ASPDotNETCoreWebAPIEntityFrameWork\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T19:10:35.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerProductController.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork\\Controllers\\CustomerProductController.cs",
+              "RelativeDocumentMoniker": "ASPDotNETCoreWebAPIEntityFrameWork\\Controllers\\CustomerProductController.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork\\Controllers\\CustomerProductController.cs",
+              "RelativeToolTip": "ASPDotNETCoreWebAPIEntityFrameWork\\Controllers\\CustomerProductController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwBAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T19:12:44.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork\\Models\\Details.cs",
+              "RelativeDocumentMoniker": "ASPDotNETCoreWebAPIEntityFrameWork\\Models\\Details.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork\\Models\\Details.cs",
+              "RelativeToolTip": "ASPDotNETCoreWebAPIEntityFrameWork\\Models\\Details.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T04:29:27.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork\\appsettings.json",
+              "RelativeDocumentMoniker": "ASPDotNETCoreWebAPIEntityFrameWork\\appsettings.json",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork\\appsettings.json",
+              "RelativeToolTip": "ASPDotNETCoreWebAPIEntityFrameWork\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T17:00:20.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Context.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork\\Data\\Context.cs",
+              "RelativeDocumentMoniker": "ASPDotNETCoreWebAPIEntityFrameWork\\Data\\Context.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork\\Data\\Context.cs",
+              "RelativeToolTip": "ASPDotNETCoreWebAPIEntityFrameWork\\Data\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T18:59:39.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerProducts.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork\\Models\\CustomerProducts.cs",
+              "RelativeDocumentMoniker": "ASPDotNETCoreWebAPIEntityFrameWork\\Models\\CustomerProducts.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork\\Models\\CustomerProducts.cs",
+              "RelativeToolTip": "ASPDotNETCoreWebAPIEntityFrameWork\\Models\\CustomerProducts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T18:57:36.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ASPDotNETCoreWebAPIEntityFrameWork\\Models\\Customer.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork\\Models\\Customer.cs",
+              "RelativeToolTip": "ASPDotNETCoreWebAPIEntityFrameWork\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T18:57:17.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240511191124_product.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork\\Migrations\\20240511191124_product.cs",
+              "RelativeDocumentMoniker": "ASPDotNETCoreWebAPIEntityFrameWork\\Migrations\\20240511191124_product.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\ASPDotNETCoreWebAPIEntityFrameWork\\ASPDotNETCoreWebAPIEntityFrameWork\\Migrations\\20240511191124_product.cs",
+              "RelativeToolTip": "ASPDotNETCoreWebAPIEntityFrameWork\\Migrations\\20240511191124_product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T19:11:24.838Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

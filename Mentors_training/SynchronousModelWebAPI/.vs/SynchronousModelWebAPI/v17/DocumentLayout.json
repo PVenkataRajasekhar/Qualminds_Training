@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Qualminds_Training\\Mentors_training\\SynchronousModelWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFE27EC-831A-46DD-A0E3-6AFE89D61BDE}|SynchronousModelWebAPI\\ASynchronousModelWebAPI.csproj|d:\\qualminds_training\\mentors_training\\synchronousmodelwebapi\\synchronousmodelwebapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFE27EC-831A-46DD-A0E3-6AFE89D61BDE}|SynchronousModelWebAPI\\ASynchronousModelWebAPI.csproj|solutionrelative:synchronousmodelwebapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFE27EC-831A-46DD-A0E3-6AFE89D61BDE}|SynchronousModelWebAPI\\ASynchronousModelWebAPI.csproj|d:\\qualminds_training\\mentors_training\\synchronousmodelwebapi\\synchronousmodelwebapi\\migrations\\contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFE27EC-831A-46DD-A0E3-6AFE89D61BDE}|SynchronousModelWebAPI\\ASynchronousModelWebAPI.csproj|solutionrelative:synchronousmodelwebapi\\migrations\\contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFE27EC-831A-46DD-A0E3-6AFE89D61BDE}|SynchronousModelWebAPI\\ASynchronousModelWebAPI.csproj|d:\\qualminds_training\\mentors_training\\synchronousmodelwebapi\\synchronousmodelwebapi\\migrations\\20240512181019_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFE27EC-831A-46DD-A0E3-6AFE89D61BDE}|SynchronousModelWebAPI\\ASynchronousModelWebAPI.csproj|solutionrelative:synchronousmodelwebapi\\migrations\\20240512181019_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFE27EC-831A-46DD-A0E3-6AFE89D61BDE}|SynchronousModelWebAPI\\ASynchronousModelWebAPI.csproj|d:\\qualminds_training\\mentors_training\\synchronousmodelwebapi\\synchronousmodelwebapi\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFE27EC-831A-46DD-A0E3-6AFE89D61BDE}|SynchronousModelWebAPI\\ASynchronousModelWebAPI.csproj|solutionrelative:synchronousmodelwebapi\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFE27EC-831A-46DD-A0E3-6AFE89D61BDE}|SynchronousModelWebAPI\\ASynchronousModelWebAPI.csproj|d:\\qualminds_training\\mentors_training\\synchronousmodelwebapi\\synchronousmodelwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFE27EC-831A-46DD-A0E3-6AFE89D61BDE}|SynchronousModelWebAPI\\ASynchronousModelWebAPI.csproj|solutionrelative:synchronousmodelwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFE27EC-831A-46DD-A0E3-6AFE89D61BDE}|SynchronousModelWebAPI\\ASynchronousModelWebAPI.csproj|d:\\qualminds_training\\mentors_training\\synchronousmodelwebapi\\synchronousmodelwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1AFE27EC-831A-46DD-A0E3-6AFE89D61BDE}|SynchronousModelWebAPI\\ASynchronousModelWebAPI.csproj|solutionrelative:synchronousmodelwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFE27EC-831A-46DD-A0E3-6AFE89D61BDE}|SynchronousModelWebAPI\\ASynchronousModelWebAPI.csproj|d:\\qualminds_training\\mentors_training\\synchronousmodelwebapi\\synchronousmodelwebapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AFE27EC-831A-46DD-A0E3-6AFE89D61BDE}|SynchronousModelWebAPI\\ASynchronousModelWebAPI.csproj|solutionrelative:synchronousmodelwebapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFE27EC-831A-46DD-A0E3-6AFE89D61BDE}|SynchronousModelWebAPI\\ASynchronousModelWebAPI.csproj|d:\\qualminds_training\\mentors_training\\synchronousmodelwebapi\\synchronousmodelwebapi\\synchronousmodelwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1AFE27EC-831A-46DD-A0E3-6AFE89D61BDE}|SynchronousModelWebAPI\\ASynchronousModelWebAPI.csproj|solutionrelative:synchronousmodelwebapi\\synchronousmodelwebapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\SynchronousModelWebAPI\\SynchronousModelWebAPI\\Migrations\\ContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "SynchronousModelWebAPI\\Migrations\\ContextModelSnapshot.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\SynchronousModelWebAPI\\SynchronousModelWebAPI\\Migrations\\ContextModelSnapshot.cs",
+              "RelativeToolTip": "SynchronousModelWebAPI\\Migrations\\ContextModelSnapshot.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:33:38.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240512181019_initial.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\SynchronousModelWebAPI\\SynchronousModelWebAPI\\Migrations\\20240512181019_initial.cs",
+              "RelativeDocumentMoniker": "SynchronousModelWebAPI\\Migrations\\20240512181019_initial.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\SynchronousModelWebAPI\\SynchronousModelWebAPI\\Migrations\\20240512181019_initial.cs",
+              "RelativeToolTip": "SynchronousModelWebAPI\\Migrations\\20240512181019_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:33:29.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Context.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\SynchronousModelWebAPI\\SynchronousModelWebAPI\\Data\\Context.cs",
+              "RelativeDocumentMoniker": "SynchronousModelWebAPI\\Data\\Context.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\SynchronousModelWebAPI\\SynchronousModelWebAPI\\Data\\Context.cs",
+              "RelativeToolTip": "SynchronousModelWebAPI\\Data\\Context.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:57:04.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\SynchronousModelWebAPI\\SynchronousModelWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SynchronousModelWebAPI\\Program.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\SynchronousModelWebAPI\\SynchronousModelWebAPI\\Program.cs",
+              "RelativeToolTip": "SynchronousModelWebAPI\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:56:17.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\SynchronousModelWebAPI\\SynchronousModelWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SynchronousModelWebAPI\\appsettings.json",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\SynchronousModelWebAPI\\SynchronousModelWebAPI\\appsettings.json",
+              "RelativeToolTip": "SynchronousModelWebAPI\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T17:55:10.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\SynchronousModelWebAPI\\SynchronousModelWebAPI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "SynchronousModelWebAPI\\Models\\Student.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\SynchronousModelWebAPI\\SynchronousModelWebAPI\\Models\\Student.cs",
+              "RelativeToolTip": "SynchronousModelWebAPI\\Models\\Student.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:54:11.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\SynchronousModelWebAPI\\SynchronousModelWebAPI\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "SynchronousModelWebAPI\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\SynchronousModelWebAPI\\SynchronousModelWebAPI\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "SynchronousModelWebAPI\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:58:15.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SynchronousModelWebAPI.http",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\SynchronousModelWebAPI\\SynchronousModelWebAPI\\SynchronousModelWebAPI.http",
+              "RelativeDocumentMoniker": "SynchronousModelWebAPI\\SynchronousModelWebAPI.http",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\SynchronousModelWebAPI\\SynchronousModelWebAPI\\SynchronousModelWebAPI.http",
+              "RelativeToolTip": "SynchronousModelWebAPI\\SynchronousModelWebAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-18T11:34:05.567Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
