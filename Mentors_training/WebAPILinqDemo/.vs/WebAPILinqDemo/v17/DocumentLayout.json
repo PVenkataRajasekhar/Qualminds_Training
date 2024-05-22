@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Qualminds_Training\\Mentors_training\\WebAPILinqDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26BFDDB4-4142-4B64-9D36-75E16959F3C3}|Linq.Infrastructure\\Linq.Infrastructure.csproj|d:\\qualminds_training\\mentors_training\\webapilinqdemo\\linq.infrastructure\\repository\\employeedepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BFDDB4-4142-4B64-9D36-75E16959F3C3}|Linq.Infrastructure\\Linq.Infrastructure.csproj|solutionrelative:linq.infrastructure\\repository\\employeedepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAED0E3-BAEC-47D9-8F6C-FC6CE00800FC}|WebAPILinqDemo\\WebAPILinqDemo.csproj|d:\\qualminds_training\\mentors_training\\webapilinqdemo\\webapilinqdemo\\controllers\\employeedepartmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EAED0E3-BAEC-47D9-8F6C-FC6CE00800FC}|WebAPILinqDemo\\WebAPILinqDemo.csproj|solutionrelative:webapilinqdemo\\controllers\\employeedepartmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BFDDB4-4142-4B64-9D36-75E16959F3C3}|Linq.Infrastructure\\Linq.Infrastructure.csproj|d:\\qualminds_training\\mentors_training\\webapilinqdemo\\linq.infrastructure\\service\\employeedepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BFDDB4-4142-4B64-9D36-75E16959F3C3}|Linq.Infrastructure\\Linq.Infrastructure.csproj|solutionrelative:linq.infrastructure\\service\\employeedepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D8544A-31F8-42CC-913D-3020A3C15481}|Linq.core\\Linq.core.csproj|d:\\qualminds_training\\mentors_training\\webapilinqdemo\\linq.core\\dto\\departmentemployeecountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D8544A-31F8-42CC-913D-3020A3C15481}|Linq.core\\Linq.core.csproj|solutionrelative:linq.core\\dto\\departmentemployeecountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BFDDB4-4142-4B64-9D36-75E16959F3C3}|Linq.Infrastructure\\Linq.Infrastructure.csproj|d:\\qualminds_training\\mentors_training\\webapilinqdemo\\linq.infrastructure\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BFDDB4-4142-4B64-9D36-75E16959F3C3}|Linq.Infrastructure\\Linq.Infrastructure.csproj|solutionrelative:linq.infrastructure\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAED0E3-BAEC-47D9-8F6C-FC6CE00800FC}|WebAPILinqDemo\\WebAPILinqDemo.csproj|d:\\qualminds_training\\mentors_training\\webapilinqdemo\\webapilinqdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EAED0E3-BAEC-47D9-8F6C-FC6CE00800FC}|WebAPILinqDemo\\WebAPILinqDemo.csproj|solutionrelative:webapilinqdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/QUAL_LT89W8PL3_SQLEXPRESS07/LinqDemoDB/True/SqlTable/dbo.Employees.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/QUAL_LT89W8PL3_SQLEXPRESS07/LinqDemoDB/True/SqlTable/dbo.Department.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D8544A-31F8-42CC-913D-3020A3C15481}|Linq.core\\Linq.core.csproj|d:\\qualminds_training\\mentors_training\\webapilinqdemo\\linq.core\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D8544A-31F8-42CC-913D-3020A3C15481}|Linq.core\\Linq.core.csproj|solutionrelative:linq.core\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D8544A-31F8-42CC-913D-3020A3C15481}|Linq.core\\Linq.core.csproj|d:\\qualminds_training\\mentors_training\\webapilinqdemo\\linq.core\\models\\departmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D8544A-31F8-42CC-913D-3020A3C15481}|Linq.core\\Linq.core.csproj|solutionrelative:linq.core\\models\\departmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAED0E3-BAEC-47D9-8F6C-FC6CE00800FC}|WebAPILinqDemo\\WebAPILinqDemo.csproj|d:\\qualminds_training\\mentors_training\\webapilinqdemo\\webapilinqdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6EAED0E3-BAEC-47D9-8F6C-FC6CE00800FC}|WebAPILinqDemo\\WebAPILinqDemo.csproj|solutionrelative:webapilinqdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D8544A-31F8-42CC-913D-3020A3C15481}|Linq.core\\Linq.core.csproj|d:\\qualminds_training\\mentors_training\\webapilinqdemo\\linq.core\\service\\iemployeedepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D8544A-31F8-42CC-913D-3020A3C15481}|Linq.core\\Linq.core.csproj|solutionrelative:linq.core\\service\\iemployeedepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23D8544A-31F8-42CC-913D-3020A3C15481}|Linq.core\\Linq.core.csproj|d:\\qualminds_training\\mentors_training\\webapilinqdemo\\linq.core\\repository\\iemployeedepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23D8544A-31F8-42CC-913D-3020A3C15481}|Linq.core\\Linq.core.csproj|solutionrelative:linq.core\\repository\\iemployeedepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26BFDDB4-4142-4B64-9D36-75E16959F3C3}|Linq.Infrastructure\\Linq.Infrastructure.csproj|d:\\qualminds_training\\mentors_training\\webapilinqdemo\\linq.infrastructure\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BFDDB4-4142-4B64-9D36-75E16959F3C3}|Linq.Infrastructure\\Linq.Infrastructure.csproj|solutionrelative:linq.infrastructure\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeDepartmentRepository.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\WebAPILinqDemo\\Linq.Infrastructure\\Repository\\EmployeeDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Linq.Infrastructure\\Repository\\EmployeeDepartmentRepository.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\WebAPILinqDemo\\Linq.Infrastructure\\Repository\\EmployeeDepartmentRepository.cs",
+              "RelativeToolTip": "Linq.Infrastructure\\Repository\\EmployeeDepartmentRepository.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAIwFwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:16:04.832Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDepartmentService.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\WebAPILinqDemo\\Linq.Infrastructure\\Service\\EmployeeDepartmentService.cs",
+              "RelativeDocumentMoniker": "Linq.Infrastructure\\Service\\EmployeeDepartmentService.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\WebAPILinqDemo\\Linq.Infrastructure\\Service\\EmployeeDepartmentService.cs",
+              "RelativeToolTip": "Linq.Infrastructure\\Service\\EmployeeDepartmentService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAzwDcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:17:55.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeDepartmentController.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\WebAPILinqDemo\\WebAPILinqDemo\\Controllers\\EmployeeDepartmentController.cs",
+              "RelativeDocumentMoniker": "WebAPILinqDemo\\Controllers\\EmployeeDepartmentController.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\WebAPILinqDemo\\WebAPILinqDemo\\Controllers\\EmployeeDepartmentController.cs",
+              "RelativeToolTip": "WebAPILinqDemo\\Controllers\\EmployeeDepartmentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:19:11.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\WebAPILinqDemo\\WebAPILinqDemo\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPILinqDemo\\Program.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\WebAPILinqDemo\\WebAPILinqDemo\\Program.cs",
+              "RelativeToolTip": "WebAPILinqDemo\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:54:39.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Context.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\WebAPILinqDemo\\Linq.Infrastructure\\Data\\Context.cs",
+              "RelativeDocumentMoniker": "Linq.Infrastructure\\Data\\Context.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\WebAPILinqDemo\\Linq.Infrastructure\\Data\\Context.cs",
+              "RelativeToolTip": "Linq.Infrastructure\\Data\\Context.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:55:42.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentEmployeeCountDTO.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\WebAPILinqDemo\\Linq.core\\DTO\\DepartmentEmployeeCountDTO.cs",
+              "RelativeDocumentMoniker": "Linq.core\\DTO\\DepartmentEmployeeCountDTO.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\WebAPILinqDemo\\Linq.core\\DTO\\DepartmentEmployeeCountDTO.cs",
+              "RelativeToolTip": "Linq.core\\DTO\\DepartmentEmployeeCountDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:54:47.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.Employees [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/QUAL_LT89W8PL3_SQLEXPRESS07/LinqDemoDB/True/SqlTable/dbo.Employees.sql",
+              "ToolTip": "dbo.Employees [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-21T13:36:36.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.Department [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/QUAL_LT89W8PL3_SQLEXPRESS07/LinqDemoDB/True/SqlTable/dbo.Department.sql",
+              "ToolTip": "dbo.Department [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-21T13:36:51.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\WebAPILinqDemo\\Linq.core\\Models\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "Linq.core\\Models\\EmployeeModel.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\WebAPILinqDemo\\Linq.core\\Models\\EmployeeModel.cs",
+              "RelativeToolTip": "Linq.core\\Models\\EmployeeModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAASwBMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:38:41.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IEmployeeDepartmentRepository.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\WebAPILinqDemo\\Linq.core\\Repository\\IEmployeeDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Linq.core\\Repository\\IEmployeeDepartmentRepository.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\WebAPILinqDemo\\Linq.core\\Repository\\IEmployeeDepartmentRepository.cs",
+              "RelativeToolTip": "Linq.core\\Repository\\IEmployeeDepartmentRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:15:23.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepartmentModel.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\WebAPILinqDemo\\Linq.core\\Models\\DepartmentModel.cs",
+              "RelativeDocumentMoniker": "Linq.core\\Models\\DepartmentModel.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\WebAPILinqDemo\\Linq.core\\Models\\DepartmentModel.cs",
+              "RelativeToolTip": "Linq.core\\Models\\DepartmentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAtwA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:41:49.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEmployeeDepartmentService.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\WebAPILinqDemo\\Linq.core\\Service\\IEmployeeDepartmentService.cs",
+              "RelativeDocumentMoniker": "Linq.core\\Service\\IEmployeeDepartmentService.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\WebAPILinqDemo\\Linq.core\\Service\\IEmployeeDepartmentService.cs",
+              "RelativeToolTip": "Linq.core\\Service\\IEmployeeDepartmentService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:17:03.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\WebAPILinqDemo\\WebAPILinqDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPILinqDemo\\appsettings.json",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\WebAPILinqDemo\\WebAPILinqDemo\\appsettings.json",
+              "RelativeToolTip": "WebAPILinqDemo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-21T13:20:41.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\WebAPILinqDemo\\Linq.Infrastructure\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "Linq.Infrastructure\\DepartmentService.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\WebAPILinqDemo\\Linq.Infrastructure\\DepartmentService.cs",
+              "RelativeToolTip": "Linq.Infrastructure\\DepartmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T07:04:32.369Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

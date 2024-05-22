@@ -1,0 +1,15 @@
+D:\Qualminds_Training\Mentors_training\WebAPILinqDemo\Linq.core\bin\Debug\net8.0\Linq.core.deps.json
+D:\Qualminds_Training\Mentors_training\WebAPILinqDemo\Linq.core\bin\Debug\net8.0\Linq.core.dll
+D:\Qualminds_Training\Mentors_training\WebAPILinqDemo\Linq.core\bin\Debug\net8.0\Linq.core.pdb
+D:\Qualminds_Training\Mentors_training\WebAPILinqDemo\Linq.core\obj\Debug\net8.0\Linq.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Qualminds_Training\Mentors_training\WebAPILinqDemo\Linq.core\obj\Debug\net8.0\Linq.core.AssemblyInfoInputs.cache
+D:\Qualminds_Training\Mentors_training\WebAPILinqDemo\Linq.core\obj\Debug\net8.0\Linq.core.AssemblyInfo.cs
+D:\Qualminds_Training\Mentors_training\WebAPILinqDemo\Linq.core\obj\Debug\net8.0\Linq.core.csproj.CoreCompileInputs.cache
+D:\Qualminds_Training\Mentors_training\WebAPILinqDemo\Linq.core\obj\Debug\net8.0\Linq.core.sourcelink.json
+D:\Qualminds_Training\Mentors_training\WebAPILinqDemo\Linq.core\obj\Debug\net8.0\Linq.core.dll
+D:\Qualminds_Training\Mentors_training\WebAPILinqDemo\Linq.core\obj\Debug\net8.0\refint\Linq.core.dll
+D:\Qualminds_Training\Mentors_training\WebAPILinqDemo\Linq.core\obj\Debug\net8.0\Linq.core.pdb
+D:\Qualminds_Training\Mentors_training\WebAPILinqDemo\Linq.core\obj\Debug\net8.0\ref\Linq.core.dll
+D:\Qualminds_Training\Mentors_training\WebAPILinqDemo\Linq.core\bin\Debug\net8.0\Linq.core.runtimeconfig.json
+D:\Qualminds_Training\Mentors_training\WebAPILinqDemo\Linq.core\obj\Debug\net8.0\Linq.core.csproj.AssemblyReference.cache
+D:\Qualminds_Training\Mentors_training\WebAPILinqDemo\Linq.core\obj\Debug\net8.0\Linq.core.genruntimeconfig.cache
