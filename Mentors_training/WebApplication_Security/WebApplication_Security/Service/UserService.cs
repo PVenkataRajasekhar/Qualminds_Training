@@ -34,7 +34,8 @@ namespace WebApplication_Security.Service
                 {
                     Subject = new ClaimsIdentity(new Claim[]
                     {
-                    new Claim(ClaimTypes.Name, user.UserName)
+                    new Claim(ClaimTypes.Name, user.UserName),
+                    new Claim(ClaimTypes.Role, user.Role)
                     }),
                     Expires = DateTime.UtcNow.AddMinutes(30),
                     SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature)
@@ -43,6 +44,15 @@ namespace WebApplication_Security.Service
                 string userToken = tokenHandler.WriteToken(token);
                 return userToken;
             }
+        }
+        public bool ValidateUser(UserModel user)
+        {
+            
+
+            // Perform validation logic by querying the database
+            var existingUser =  _context.Users.FirstOrDefault(u => u.UserName == user.UserName && u.Password == user.Password);
+
+            return existingUser != null;
         }
     }
 }

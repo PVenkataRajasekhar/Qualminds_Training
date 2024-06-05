@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Caching.Memory;
 using SynchronousCustomerProductModel.Data;
 using SynchronousCustomerProductModel.Models;
 
@@ -8,15 +9,29 @@ namespace SynchronousCustomerProductModel.Controllers
     public class ProductController:ControllerBase
     {
         Context context;
-        public ProductController(Context Context)
+        MemoryCache _memorycache;
+
+        public ProductController(Context Context, MemoryCache memorycache)
         {
             context = Context;
+            _memorycache = memorycache;
         }
 
         [HttpGet("/GetProd")]
-        public async Task<ActionResult<IEnumerable<Product>>> GetProduct()
+        public async Task<IEnumerable<Product>> GetProducts()
         {
-            return await context.Products.ToListAsync();
+            if (!_memorycache.TryGetValue(CacheKey, out IEnumerable<Product> products))
+            {
+                products = await context.Products.ToListAsync<Product>();
+
+                var cacheEntryOptions = new MemoryCacheEntryOptions
+                {
+                    AbsoluteExpirationRelativeToNow = TimeSpan.FromMinutes(1), // Cache for 1 minute
+                    SlidingExpiration = TimeSpan.FromSeconds(20) // Reset the expiration time if accessed within 20 seconds
+                };
+                _memorycache.Set(CacheKey, products, cacheEntryOptions);
+            }
+            return products;
         }
 
         [HttpGet("{Prodid}")]

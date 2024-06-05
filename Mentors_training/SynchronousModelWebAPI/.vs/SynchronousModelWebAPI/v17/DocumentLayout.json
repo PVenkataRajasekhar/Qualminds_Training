@@ -42,8 +42,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\SynchronousModelWebAPI\\SynchronousModelWebAPI\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "SynchronousModelWebAPI\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\SynchronousModelWebAPI\\SynchronousModelWebAPI\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "SynchronousModelWebAPI\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:58:15.33Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -111,19 +124,6 @@
               "RelativeToolTip": "SynchronousModelWebAPI\\Models\\Student.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-12T17:54:11.827Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\SynchronousModelWebAPI\\SynchronousModelWebAPI\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "SynchronousModelWebAPI\\Controllers\\StudentController.cs",
-              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\SynchronousModelWebAPI\\SynchronousModelWebAPI\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "SynchronousModelWebAPI\\Controllers\\StudentController.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T17:58:15.33Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\QualMinds\\source\\repos\\Delegates\\",
+  "WorkspaceRootPath": "D:\\Qualminds_Training\\Delegates\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48E135FB-54AF-4FEA-80F0-3C3CB234AFA9}|Delegates\\Delegates.csproj|c:\\users\\qualminds\\source\\repos\\delegates\\delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{48E135FB-54AF-4FEA-80F0-3C3CB234AFA9}|Delegates\\Delegates.csproj|d:\\qualminds_training\\delegates\\delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48E135FB-54AF-4FEA-80F0-3C3CB234AFA9}|Delegates\\Delegates.csproj|solutionrelative:delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\QualMinds\\source\\repos\\Delegates\\Delegates\\Program.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Delegates\\Delegates\\Program.cs",
               "RelativeDocumentMoniker": "Delegates\\Program.cs",
-              "ToolTip": "C:\\Users\\QualMinds\\source\\repos\\Delegates\\Delegates\\Program.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Delegates\\Delegates\\Program.cs",
               "RelativeToolTip": "Delegates\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAFAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwCkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-21T05:28:36.129Z",
               "EditorCaption": ""

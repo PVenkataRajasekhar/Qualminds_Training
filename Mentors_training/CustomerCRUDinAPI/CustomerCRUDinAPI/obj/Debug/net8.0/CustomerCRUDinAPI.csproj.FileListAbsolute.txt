@@ -68,3 +68,8 @@ D:\Qualminds_Training\Mentors_training\CustomerCRUDinAPI\CustomerCRUDinAPI\bin\D
 D:\Qualminds_Training\Mentors_training\CustomerCRUDinAPI\CustomerCRUDinAPI\bin\Debug\net8.0\Customer.Core.pdb
 D:\Qualminds_Training\Mentors_training\CustomerCRUDinAPI\CustomerCRUDinAPI\bin\Debug\net8.0\Customer.Infrastructure.dll
 D:\Qualminds_Training\Mentors_training\CustomerCRUDinAPI\CustomerCRUDinAPI\bin\Debug\net8.0\Customer.Infrastructure.pdb
+D:\Qualminds_Training\Mentors_training\CustomerCRUDinAPI\CustomerCRUDinAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Qualminds_Training\Mentors_training\CustomerCRUDinAPI\CustomerCRUDinAPI\bin\Debug\net8.0\Microsoft.Extensions.Http.Polly.dll
+D:\Qualminds_Training\Mentors_training\CustomerCRUDinAPI\CustomerCRUDinAPI\bin\Debug\net8.0\Polly.dll
+D:\Qualminds_Training\Mentors_training\CustomerCRUDinAPI\CustomerCRUDinAPI\bin\Debug\net8.0\Polly.Core.dll
+D:\Qualminds_Training\Mentors_training\CustomerCRUDinAPI\CustomerCRUDinAPI\bin\Debug\net8.0\Polly.Extensions.Http.dll

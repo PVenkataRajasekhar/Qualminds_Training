@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using WebApplication_Security.Service;
 using WebApplication_Security.Data;
 using Microsoft.EntityFrameworkCore;
+using WebApplication_Security.Filters;
 
 
 namespace WebApplication_Security.Controllers
@@ -18,28 +19,30 @@ namespace WebApplication_Security.Controllers
     {
         private readonly IUserService _userService;
         private readonly Context _context;
+        
         public UserController(IUserService userService,Context context)
         {
             _userService = userService;
             _context = context;
+           
         }
         [Authorize]
+        [ServiceFilter(typeof(LogTrackAttribute))]
         [HttpGet]
         public async Task<ActionResult<IEnumerable<UserModel>>> Get()
         {
             return await _context.Users.ToListAsync();
         }
         [AllowAnonymous]
-        [HttpPost("login")]
-        public async Task<ActionResult<UserService>> Login(UserModel user)
+        [HttpPost]
+        public async Task<ActionResult<string>> Login(UserModel user)
         {
-            var token =await _userService.Login(user);
-            if (string.IsNullOrEmpty(token))
+            if (_userService.ValidateUser(user))
             {
-                return Unauthorized("Invalid credentials");
+                var token = await _userService.Login(user);
+                return Ok(new { Token = token });
             }
-
-            return Ok(new { Token = token });
+            return Unauthorized("Invalid credentials");
         }
     }
 }

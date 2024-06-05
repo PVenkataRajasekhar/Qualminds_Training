@@ -46,5 +46,25 @@ namespace Customer.Infrastructure.Service
       
             _customerRepository.Delete(customerId);
         }
+        public Task<string> CallOtherApiGet(string accessToken)
+        {
+            return _customerRepository.CallOtherApiMethod(accessToken);
+        }
+        public Task<string> GetById(int id)
+        {
+            return _customerRepository.GetProductUsingId(id);
+        }
+        public Task<string> Create(ProductModel productModel)
+        {
+            return _customerRepository.CreateProducts(productModel);
+        }
+        public Task<string> Update(ProductModel productModel)
+        {
+            return _customerRepository.UpdateProducts(productModel);
+        }
+        public Task<string> Delete(int id)
+        {
+            return _customerRepository.DeleteProducts(id);
+        }
     }
 }

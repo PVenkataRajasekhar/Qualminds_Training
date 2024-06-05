@@ -3,12 +3,56 @@
   "WorkspaceRootPath": "D:\\Qualminds_Training\\Mentors_training\\AnnotationsDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{375D54D5-4F87-442D-AC0D-8EE15B31A7C4}|AnnotationsDemo\\AnnotationsDemo.csproj|d:\\qualminds_training\\mentors_training\\annotationsdemo\\annotationsdemo\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{375D54D5-4F87-442D-AC0D-8EE15B31A7C4}|AnnotationsDemo\\AnnotationsDemo.csproj|solutionrelative:annotationsdemo\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{375D54D5-4F87-442D-AC0D-8EE15B31A7C4}|AnnotationsDemo\\AnnotationsDemo.csproj|d:\\qualminds_training\\mentors_training\\annotationsdemo\\annotationsdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{375D54D5-4F87-442D-AC0D-8EE15B31A7C4}|AnnotationsDemo\\AnnotationsDemo.csproj|solutionrelative:annotationsdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{375D54D5-4F87-442D-AC0D-8EE15B31A7C4}|AnnotationsDemo\\AnnotationsDemo.csproj|d:\\qualminds_training\\mentors_training\\annotationsdemo\\annotationsdemo\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{375D54D5-4F87-442D-AC0D-8EE15B31A7C4}|AnnotationsDemo\\AnnotationsDemo.csproj|solutionrelative:annotationsdemo\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82EBA1BF-B87B-48F6-A479-E5224AD49445}|Customer.core\\Customer.core.csproj|d:\\qualminds_training\\mentors_training\\annotationsdemo\\customer.core\\model\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82EBA1BF-B87B-48F6-A479-E5224AD49445}|Customer.core\\Customer.core.csproj|solutionrelative:customer.core\\model\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF44FE0-6A01-4A27-AE26-8586E4C360CF}|Customer.Infrastructure\\Customer.Infrastructure.csproj|d:\\qualminds_training\\mentors_training\\annotationsdemo\\customer.infrastructure\\context\\customercruddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF44FE0-6A01-4A27-AE26-8586E4C360CF}|Customer.Infrastructure\\Customer.Infrastructure.csproj|solutionrelative:customer.infrastructure\\context\\customercruddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375D54D5-4F87-442D-AC0D-8EE15B31A7C4}|AnnotationsDemo\\AnnotationsDemo.csproj|d:\\qualminds_training\\mentors_training\\annotationsdemo\\annotationsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375D54D5-4F87-442D-AC0D-8EE15B31A7C4}|AnnotationsDemo\\AnnotationsDemo.csproj|solutionrelative:annotationsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82EBA1BF-B87B-48F6-A479-E5224AD49445}|Customer.core\\Customer.core.csproj|d:\\qualminds_training\\mentors_training\\annotationsdemo\\customer.core\\userdefinedattribute\\customemailattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82EBA1BF-B87B-48F6-A479-E5224AD49445}|Customer.core\\Customer.core.csproj|solutionrelative:customer.core\\userdefinedattribute\\customemailattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF44FE0-6A01-4A27-AE26-8586E4C360CF}|Customer.Infrastructure\\Customer.Infrastructure.csproj|d:\\qualminds_training\\mentors_training\\annotationsdemo\\customer.infrastructure\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF44FE0-6A01-4A27-AE26-8586E4C360CF}|Customer.Infrastructure\\Customer.Infrastructure.csproj|solutionrelative:customer.infrastructure\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82EBA1BF-B87B-48F6-A479-E5224AD49445}|Customer.core\\Customer.core.csproj|d:\\qualminds_training\\mentors_training\\annotationsdemo\\customer.core\\repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82EBA1BF-B87B-48F6-A479-E5224AD49445}|Customer.core\\Customer.core.csproj|solutionrelative:customer.core\\repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF44FE0-6A01-4A27-AE26-8586E4C360CF}|Customer.Infrastructure\\Customer.Infrastructure.csproj|d:\\qualminds_training\\mentors_training\\annotationsdemo\\customer.infrastructure\\service\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF44FE0-6A01-4A27-AE26-8586E4C360CF}|Customer.Infrastructure\\Customer.Infrastructure.csproj|solutionrelative:customer.infrastructure\\service\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82EBA1BF-B87B-48F6-A479-E5224AD49445}|Customer.core\\Customer.core.csproj|d:\\qualminds_training\\mentors_training\\annotationsdemo\\customer.core\\service\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82EBA1BF-B87B-48F6-A479-E5224AD49445}|Customer.core\\Customer.core.csproj|solutionrelative:customer.core\\service\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375D54D5-4F87-442D-AC0D-8EE15B31A7C4}|AnnotationsDemo\\AnnotationsDemo.csproj|d:\\qualminds_training\\mentors_training\\annotationsdemo\\annotationsdemo\\migrations\\20240522131006_newone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375D54D5-4F87-442D-AC0D-8EE15B31A7C4}|AnnotationsDemo\\AnnotationsDemo.csproj|solutionrelative:annotationsdemo\\migrations\\20240522131006_newone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF44FE0-6A01-4A27-AE26-8586E4C360CF}|Customer.Infrastructure\\Customer.Infrastructure.csproj|d:\\qualminds_training\\mentors_training\\annotationsdemo\\customer.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF44FE0-6A01-4A27-AE26-8586E4C360CF}|Customer.Infrastructure\\Customer.Infrastructure.csproj|solutionrelative:customer.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82EBA1BF-B87B-48F6-A479-E5224AD49445}|Customer.core\\Customer.core.csproj|d:\\qualminds_training\\mentors_training\\annotationsdemo\\customer.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82EBA1BF-B87B-48F6-A479-E5224AD49445}|Customer.core\\Customer.core.csproj|solutionrelative:customer.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +62,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\AnnotationsDemo\\AnnotationsDemo\\Model\\Customer.cs",
-              "RelativeDocumentMoniker": "AnnotationsDemo\\Model\\Customer.cs",
-              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\AnnotationsDemo\\AnnotationsDemo\\Model\\Customer.cs",
-              "RelativeToolTip": "AnnotationsDemo\\Model\\Customer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T06:50:46.105Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -41,10 +72,155 @@
               "RelativeDocumentMoniker": "AnnotationsDemo\\Controllers\\CustomerController.cs",
               "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\AnnotationsDemo\\AnnotationsDemo\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "AnnotationsDemo\\Controllers\\CustomerController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAnwBkAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T06:49:20.713Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerModel.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\AnnotationsDemo\\Customer.core\\Model\\CustomerModel.cs",
+              "RelativeDocumentMoniker": "Customer.core\\Model\\CustomerModel.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\AnnotationsDemo\\Customer.core\\Model\\CustomerModel.cs",
+              "RelativeToolTip": "Customer.core\\Model\\CustomerModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwB4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:44:52.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomEmailAttribute.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\AnnotationsDemo\\Customer.core\\UserdefinedAttribute\\CustomEmailAttribute.cs",
+              "RelativeDocumentMoniker": "Customer.core\\UserdefinedAttribute\\CustomEmailAttribute.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\AnnotationsDemo\\Customer.core\\UserdefinedAttribute\\CustomEmailAttribute.cs",
+              "RelativeToolTip": "Customer.core\\UserdefinedAttribute\\CustomEmailAttribute.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:45:26.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\AnnotationsDemo\\Customer.core\\Service\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Customer.core\\Service\\ICustomerService.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\AnnotationsDemo\\Customer.core\\Service\\ICustomerService.cs",
+              "RelativeToolTip": "Customer.core\\Service\\ICustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:47:13.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\AnnotationsDemo\\AnnotationsDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "AnnotationsDemo\\appsettings.json",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\AnnotationsDemo\\AnnotationsDemo\\appsettings.json",
+              "RelativeToolTip": "AnnotationsDemo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T12:17:29.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\AnnotationsDemo\\AnnotationsDemo\\Program.cs",
+              "RelativeDocumentMoniker": "AnnotationsDemo\\Program.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\AnnotationsDemo\\AnnotationsDemo\\Program.cs",
+              "RelativeToolTip": "AnnotationsDemo\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:17:57.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerCrudDbContext.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\AnnotationsDemo\\Customer.Infrastructure\\Context\\CustomerCrudDbContext.cs",
+              "RelativeDocumentMoniker": "Customer.Infrastructure\\Context\\CustomerCrudDbContext.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\AnnotationsDemo\\Customer.Infrastructure\\Context\\CustomerCrudDbContext.cs",
+              "RelativeToolTip": "Customer.Infrastructure\\Context\\CustomerCrudDbContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:48:49.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\AnnotationsDemo\\Customer.Infrastructure\\Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Customer.Infrastructure\\Repository\\CustomerRepository.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\AnnotationsDemo\\Customer.Infrastructure\\Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "Customer.Infrastructure\\Repository\\CustomerRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAhwBUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:49:19.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\AnnotationsDemo\\Customer.Infrastructure\\Service\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Customer.Infrastructure\\Service\\CustomerService.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\AnnotationsDemo\\Customer.Infrastructure\\Service\\CustomerService.cs",
+              "RelativeToolTip": "Customer.Infrastructure\\Service\\CustomerService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAtwBUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:49:52.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\AnnotationsDemo\\Customer.core\\Repository\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Customer.core\\Repository\\ICustomerRepository.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\AnnotationsDemo\\Customer.core\\Repository\\ICustomerRepository.cs",
+              "RelativeToolTip": "Customer.core\\Repository\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:46:28.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240522131006_newone.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\AnnotationsDemo\\AnnotationsDemo\\Migrations\\20240522131006_newone.cs",
+              "RelativeDocumentMoniker": "AnnotationsDemo\\Migrations\\20240522131006_newone.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\AnnotationsDemo\\AnnotationsDemo\\Migrations\\20240522131006_newone.cs",
+              "RelativeToolTip": "AnnotationsDemo\\Migrations\\20240522131006_newone.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:10:06.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\AnnotationsDemo\\Customer.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Customer.Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\AnnotationsDemo\\Customer.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Customer.Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:47:52.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\AnnotationsDemo\\Customer.core\\Class1.cs",
+              "RelativeDocumentMoniker": "Customer.core\\Class1.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\AnnotationsDemo\\Customer.core\\Class1.cs",
+              "RelativeToolTip": "Customer.core\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:44:20.845Z"
             }
           ]
         }

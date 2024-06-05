@@ -10,3 +10,4 @@ D:\Qualminds_Training\Mentors_training\CustomerCRUDinAPI\Customer.Core\obj\Debug
 D:\Qualminds_Training\Mentors_training\CustomerCRUDinAPI\Customer.Core\obj\Debug\net8.0\refint\Customer.Core.dll
 D:\Qualminds_Training\Mentors_training\CustomerCRUDinAPI\Customer.Core\obj\Debug\net8.0\Customer.Core.pdb
 D:\Qualminds_Training\Mentors_training\CustomerCRUDinAPI\Customer.Core\obj\Debug\net8.0\ref\Customer.Core.dll
+D:\Qualminds_Training\Mentors_training\CustomerCRUDinAPI\Customer.Core\obj\Debug\net8.0\Customer.Core.csproj.AssemblyReference.cache

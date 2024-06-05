@@ -8,6 +8,7 @@ using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using WebApplication_Security.Contracts;
 using WebApplication_Security.Data;
+using WebApplication_Security.Filters;
 using WebApplication_Security.Service;
 
 namespace WebApplication_Security
@@ -27,6 +28,7 @@ namespace WebApplication_Security
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
             builder.Services.AddDbContext<Context>(opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("dbcn")));
+            builder.Services.AddScoped<LogTrackAttribute>();
 
             builder.Services.AddScoped<IUserService, UserService>();
             builder.Services.AddAuthentication(options =>

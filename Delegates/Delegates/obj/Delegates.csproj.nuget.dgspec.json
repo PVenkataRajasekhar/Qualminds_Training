@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Delegates\\Delegates\\Delegates.csproj": {}
+    "D:\\Qualminds_Training\\Delegates\\Delegates\\Delegates.csproj": {}
   },
   "projects": {
-    "D:\\Delegates\\Delegates\\Delegates.csproj": {
+    "D:\\Qualminds_Training\\Delegates\\Delegates\\Delegates.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Delegates\\Delegates\\Delegates.csproj",
+        "projectUniqueName": "D:\\Qualminds_Training\\Delegates\\Delegates\\Delegates.csproj",
         "projectName": "Delegates",
-        "projectPath": "D:\\Delegates\\Delegates\\Delegates.csproj",
+        "projectPath": "D:\\Qualminds_Training\\Delegates\\Delegates\\Delegates.csproj",
         "packagesPath": "C:\\Users\\QualMinds\\.nuget\\packages\\",
-        "outputPath": "D:\\Delegates\\Delegates\\obj\\",
+        "outputPath": "D:\\Qualminds_Training\\Delegates\\Delegates\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\QualMinds\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,7 +21,7 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\microsoft.net.test.sdk": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

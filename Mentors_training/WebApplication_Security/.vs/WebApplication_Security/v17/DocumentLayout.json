@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "D:\\Qualminds_Training\\Mentors_training\\WebApplication_Security\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0299739C-C76F-4684-A5BB-279CC41A6C46}|WebApplication_Security\\WebApplication_Security.csproj|d:\\qualminds_training\\mentors_training\\webapplication_security\\webapplication_security\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0299739C-C76F-4684-A5BB-279CC41A6C46}|WebApplication_Security\\WebApplication_Security.csproj|solutionrelative:webapplication_security\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0299739C-C76F-4684-A5BB-279CC41A6C46}|WebApplication_Security\\WebApplication_Security.csproj|d:\\qualminds_training\\mentors_training\\webapplication_security\\webapplication_security\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0299739C-C76F-4684-A5BB-279CC41A6C46}|WebApplication_Security\\WebApplication_Security.csproj|solutionrelative:webapplication_security\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0299739C-C76F-4684-A5BB-279CC41A6C46}|WebApplication_Security\\WebApplication_Security.csproj|d:\\qualminds_training\\mentors_training\\webapplication_security\\webapplication_security\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0299739C-C76F-4684-A5BB-279CC41A6C46}|WebApplication_Security\\WebApplication_Security.csproj|solutionrelative:webapplication_security\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0299739C-C76F-4684-A5BB-279CC41A6C46}|WebApplication_Security\\WebApplication_Security.csproj|d:\\qualminds_training\\mentors_training\\webapplication_security\\webapplication_security\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0299739C-C76F-4684-A5BB-279CC41A6C46}|WebApplication_Security\\WebApplication_Security.csproj|solutionrelative:webapplication_security\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0299739C-C76F-4684-A5BB-279CC41A6C46}|WebApplication_Security\\WebApplication_Security.csproj|d:\\qualminds_training\\mentors_training\\webapplication_security\\webapplication_security\\filters\\logtrackattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0299739C-C76F-4684-A5BB-279CC41A6C46}|WebApplication_Security\\WebApplication_Security.csproj|solutionrelative:webapplication_security\\filters\\logtrackattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0299739C-C76F-4684-A5BB-279CC41A6C46}|WebApplication_Security\\WebApplication_Security.csproj|d:\\qualminds_training\\mentors_training\\webapplication_security\\webapplication_security\\contracts\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0299739C-C76F-4684-A5BB-279CC41A6C46}|WebApplication_Security\\WebApplication_Security.csproj|solutionrelative:webapplication_security\\contracts\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0299739C-C76F-4684-A5BB-279CC41A6C46}|WebApplication_Security\\WebApplication_Security.csproj|d:\\qualminds_training\\mentors_training\\webapplication_security\\webapplication_security\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0299739C-C76F-4684-A5BB-279CC41A6C46}|WebApplication_Security\\WebApplication_Security.csproj|solutionrelative:webapplication_security\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0299739C-C76F-4684-A5BB-279CC41A6C46}|WebApplication_Security\\WebApplication_Security.csproj|d:\\qualminds_training\\mentors_training\\webapplication_security\\webapplication_security\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +35,7 @@
       "RelativeMoniker": "D:0:0:{0299739C-C76F-4684-A5BB-279CC41A6C46}|WebApplication_Security\\WebApplication_Security.csproj|solutionrelative:webapplication_security\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0299739C-C76F-4684-A5BB-279CC41A6C46}|WebApplication_Security\\WebApplication_Security.csproj|d:\\qualminds_training\\mentors_training\\webapplication_security\\webapplication_security\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0299739C-C76F-4684-A5BB-279CC41A6C46}|WebApplication_Security\\WebApplication_Security.csproj|solutionrelative:webapplication_security\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0299739C-C76F-4684-A5BB-279CC41A6C46}|WebApplication_Security\\WebApplication_Security.csproj|d:\\qualminds_training\\mentors_training\\webapplication_security\\webapplication_security\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0299739C-C76F-4684-A5BB-279CC41A6C46}|WebApplication_Security\\WebApplication_Security.csproj|solutionrelative:webapplication_security\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0299739C-C76F-4684-A5BB-279CC41A6C46}|WebApplication_Security\\WebApplication_Security.csproj|d:\\qualminds_training\\mentors_training\\webapplication_security\\webapplication_security\\contracts\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0299739C-C76F-4684-A5BB-279CC41A6C46}|WebApplication_Security\\WebApplication_Security.csproj|solutionrelative:webapplication_security\\contracts\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/QUAL_LT89W8PL3_SQLEXPRESS07/TokenDB/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,24 +45,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\WebApplication_Security\\WebApplication_Security\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "WebApplication_Security\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\WebApplication_Security\\WebApplication_Security\\Controllers\\UserController.cs",
-              "RelativeToolTip": "WebApplication_Security\\Controllers\\UserController.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAwBkAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T07:15:54.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Context.cs",
               "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\WebApplication_Security\\WebApplication_Security\\Data\\Context.cs",
               "RelativeDocumentMoniker": "WebApplication_Security\\Data\\Context.cs",
@@ -63,72 +57,104 @@
               "RelativeToolTip": "WebApplication_Security\\Data\\Context.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T07:02:17.585Z",
+              "WhenOpened": "2024-05-18T07:02:17.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/QUAL_LT89W8PL3_SQLEXPRESS07/TokenDB/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-25T06:34:27.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\WebApplication_Security\\WebApplication_Security\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApplication_Security\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\WebApplication_Security\\WebApplication_Security\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebApplication_Security\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T07:15:54.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\WebApplication_Security\\WebApplication_Security\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication_Security\\Program.cs",
               "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\WebApplication_Security\\WebApplication_Security\\Program.cs",
               "RelativeToolTip": "WebApplication_Security\\Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAzwBYAAABbAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwDwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-18T06:59:28.208Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "UserModel.cs",
               "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\WebApplication_Security\\WebApplication_Security\\Model\\UserModel.cs",
               "RelativeDocumentMoniker": "WebApplication_Security\\Model\\UserModel.cs",
               "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\WebApplication_Security\\WebApplication_Security\\Model\\UserModel.cs",
               "RelativeToolTip": "WebApplication_Security\\Model\\UserModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T06:24:28.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T06:24:28.683Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\WebApplication_Security\\WebApplication_Security\\appsettings.json",
               "RelativeDocumentMoniker": "WebApplication_Security\\appsettings.json",
               "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\WebApplication_Security\\WebApplication_Security\\appsettings.json",
               "RelativeToolTip": "WebApplication_Security\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-05-18T06:34:01.431Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\WebApplication_Security\\WebApplication_Security\\Service\\UserService.cs",
               "RelativeDocumentMoniker": "WebApplication_Security\\Service\\UserService.cs",
               "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\WebApplication_Security\\WebApplication_Security\\Service\\UserService.cs",
               "RelativeToolTip": "WebApplication_Security\\Service\\UserService.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwCIAAAA8AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T06:28:40.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T06:28:40.332Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "IUserService.cs",
               "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\WebApplication_Security\\WebApplication_Security\\Contracts\\IUserService.cs",
               "RelativeDocumentMoniker": "WebApplication_Security\\Contracts\\IUserService.cs",
               "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\WebApplication_Security\\WebApplication_Security\\Contracts\\IUserService.cs",
               "RelativeToolTip": "WebApplication_Security\\Contracts\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-18T06:26:29.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogTrackAttribute.cs",
+              "DocumentMoniker": "D:\\Qualminds_Training\\Mentors_training\\WebApplication_Security\\WebApplication_Security\\Filters\\LogTrackAttribute.cs",
+              "RelativeDocumentMoniker": "WebApplication_Security\\Filters\\LogTrackAttribute.cs",
+              "ToolTip": "D:\\Qualminds_Training\\Mentors_training\\WebApplication_Security\\WebApplication_Security\\Filters\\LogTrackAttribute.cs",
+              "RelativeToolTip": "WebApplication_Security\\Filters\\LogTrackAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T05:46:07.672Z",
+              "EditorCaption": ""
             }
           ]
         }

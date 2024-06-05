@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "r/+u3H3DqF+S2wayo2YUoyJHQz4w9QLMvXclPZzoI60kHnpdgSFUlYA9B04XouAGk2tHzU8f9dn2LCyWq66kvw==",
+  "dgSpecHash": "rPxrIx4qXSylE8cgrd5RjenfaZ9zudlzc59q3QhPTiVYobc4Nrusnshxtw9jjkCfyZUq/h/nxCkwHL/DBv5dhQ==",
   "success": true,
   "projectFilePath": "D:\\Qualminds_Training\\Mentors_training\\CustomerCRUDinAPI\\Customer.Core\\Customer.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\QualMinds\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -13,5 +13,10 @@ namespace Customer.Core.Repository
         public string Post(CustomerModel customer);
         public string Put(CustomerModel customer);
         public string Delete(int id);
+        public  Task<string> CallOtherApiMethod(string accessToken);
+        public Task<string>  GetProductUsingId(int id);
+        public Task<string> CreateProducts(ProductModel productModel);
+        public Task<string> UpdateProducts(ProductModel productModel);
+        public Task<string> DeleteProducts(int id);
     }
 }
