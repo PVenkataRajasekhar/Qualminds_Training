@@ -1,0 +1,77 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Channels;
+using System.Threading.Tasks;
+
+namespace Banking3
+{
+    public class WithdrawTransaction
+    {
+        private Account _account;
+        private decimal _amount;
+        private bool _executed = false;
+        private bool _success = false;
+        private bool _reversed = false;
+
+        public Account Account 
+        {
+            set { _account = value; }
+            get { return _account; } 
+        }
+        public decimal Amount 
+        {
+            set { _amount = value; }
+            get { return _amount; } 
+        }
+        public bool Executed { get { return _executed; } }
+        public bool Success { get { return _success; } }
+        public bool Reversed { get { return _reversed; } }
+        public WithdrawTransaction(Account account,decimal amount)
+        {
+            _account = account;
+            _amount = amount;
+        }
+        public void Execute()
+        {
+            if (_executed)
+            {
+                throw new Exception("cannot execute this transaction as it has already executed");
+            }
+            _executed = true;
+            _success = _account.Withdraw(_amount);
+            if (_success == false)
+            {
+                _executed = false;
+                Rollback();
+
+            }
+        }
+        public void Rollback()
+        {
+            _reversed = true;
+            if (_executed == false && _reversed == true)
+            {
+                Print();
+            }
+        }
+        public void Print()
+        {
+            if (_success == true)
+            {
+                Console.WriteLine("WithdrawTransaction was successful");
+                Console.WriteLine("the amount withdrawn is : {0}", _amount);
+            }
+            else
+            {
+                Console.WriteLine("WithdrawTransaction was unsuccessful");
+            }
+            if (_reversed == true)
+            {
+                Console.WriteLine("The transaction is reversed");
+            }
+        }
+            
+    }
+}
