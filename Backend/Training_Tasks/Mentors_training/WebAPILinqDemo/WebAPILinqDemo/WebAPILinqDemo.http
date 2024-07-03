@@ -1,6 +1,0 @@
-@WebAPILinqDemo_HostAddress = http://localhost:5211
-
-GET {{WebAPILinqDemo_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
